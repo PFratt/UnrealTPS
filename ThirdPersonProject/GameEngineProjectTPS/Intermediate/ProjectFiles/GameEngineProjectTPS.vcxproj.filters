@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameEngineProjectTPS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EF0C313A-A8E8-4792-8036-1D4B552CE625}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameEngineProjectTPS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameEngineProjectTPSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{89525E95-C188-4D49-9A07-5FA55D0F3A1C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameEngineProjectTPS">
+      <UniqueIdentifier>{DA44A2BB-C296-4AB3-87F6-C068F8FA4ED7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPS.Build.cs">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPS.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPS.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPSCharacter.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPSCharacter.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPSGameMode.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPSGameMode.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
