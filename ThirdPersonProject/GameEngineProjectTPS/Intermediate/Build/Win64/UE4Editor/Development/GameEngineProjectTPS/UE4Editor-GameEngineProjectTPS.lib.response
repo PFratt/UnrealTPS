@@ -6,13 +6,13 @@
 /NAME:"UE4Editor-GameEngineProjectTPS.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\GameEngineProjectTPSEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPS.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSCharacter.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSGameMode.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPS.init.gen.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSCharacter.gen.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSGameMode.gen.cpp.obj"
-"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Default.rc2.res"
-/OUT:"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\UE4Editor-GameEngineProjectTPS.lib"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\GameEngineProjectTPSEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPS.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSCharacter.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSGameMode.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPS.init.gen.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSCharacter.gen.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\GameEngineProjectTPSGameMode.gen.cpp.obj"
+"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Default.rc2.res"
+/OUT:"C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\UE4Editor-GameEngineProjectTPS.lib"
 /INCLUDE:IMPLEMENT_MODULE_GameEngineProjectTPS
