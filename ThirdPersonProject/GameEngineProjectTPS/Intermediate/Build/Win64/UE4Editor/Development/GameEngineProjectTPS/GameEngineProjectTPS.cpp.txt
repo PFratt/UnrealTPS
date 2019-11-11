@@ -1,2 +1,2 @@
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Definitions.GameEngineProjectTPS.h
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPS.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Definitions.GameEngineProjectTPS.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPS.h

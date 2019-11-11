@@ -1,13 +1,13 @@
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Definitions.GameEngineProjectTPS.h
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPSGameMode.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Development\GameEngineProjectTPS\Definitions.GameEngineProjectTPS.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPSGameMode.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProjectTPS\GameEngineProjectTPSGameMode.generated.h
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPSCharacter.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProjectTPS\GameEngineProjectTPSGameMode.generated.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Source\GameEngineProjectTPS\GameEngineProjectTPSCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\philf\Desktop\School\Semester 5\Game Engine III\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProjectTPS\GameEngineProjectTPSCharacter.generated.h
+C:\Users\julia\Documents\UnrealGameProject\UnrealTPS\ThirdPersonProject\GameEngineProjectTPS\Intermediate\Build\Win64\UE4Editor\Inc\GameEngineProjectTPS\GameEngineProjectTPSCharacter.generated.h
