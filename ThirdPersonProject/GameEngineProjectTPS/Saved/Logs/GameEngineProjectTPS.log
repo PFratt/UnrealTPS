@@ -3795,3 +3795,271 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.11-01.38.56:045][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
 [2019.11.11-01.38.56:659][246]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside1273F6ED4D35F05FE69356BEE0ADEA66.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside.umap'
 [2019.11.11-01.38.57:250][246]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside_BuiltDataCF069F204D8A8F65ADA8A49D98522E09.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside_BuiltData.uasset'
+[2019.11.11-01.40.40:266][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-01.40.40:287][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.40.40:287][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-01.40.40:287][ 52]PIE: New page: PIE session: SecondLevelOutside (Nov 10, 2019, 3:40:40 PM)
+[2019.11.11-01.40.40:288][ 52]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.11-01.40.40:352][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063660s)
+[2019.11.11-01.40.40:352][ 52]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.11-01.40.40:353][ 52]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.11.11-01.40.40:353][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.064611s)
+[2019.11.11-01.40.40:383][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.11-01.40.40:386][ 52]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-01.40.40:412][ 52]LogInit: FAudioDevice initialized.
+[2019.11.11-01.40.40:444][ 52]LogLoad: Game class is 'GameEngineProjectTPSGameMode'
+[2019.11.11-01.40.40:444][ 52]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.11-01.40.40:448][ 52]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.10-20.40.40
+[2019.11.11-01.40.40:449][ 52]LogWorld: Bringing up level for play took: 0.005404
+[2019.11.11-01.40.40:464][ 52]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 1.018
+[2019.11.11-01.40.40:464][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.40.40:666][ 53]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066428 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-01.40.58:679][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.40.58:680][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.40.58:728][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-01.40.58:728][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.40.58:759][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.40.58:763][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.11-01.40.58:792][123]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.11.11-01.41.31:149][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-01.48.06:751][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-01.48.06:776][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.48.06:776][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-01.48.06:776][234]PIE: New page: PIE session: SecondLevelOutside (Nov 10, 2019, 3:48:06 PM)
+[2019.11.11-01.48.06:777][234]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.11-01.48.06:850][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072617s)
+[2019.11.11-01.48.06:851][234]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.11-01.48.06:851][234]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.11.11-01.48.06:851][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.073871s)
+[2019.11.11-01.48.06:887][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.11-01.48.06:891][234]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-01.48.06:918][234]LogInit: FAudioDevice initialized.
+[2019.11.11-01.48.06:947][234]LogLoad: Game class is 'GameEngineProjectTPSGameMode'
+[2019.11.11-01.48.06:948][234]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.11-01.48.06:951][234]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.10-20.48.06
+[2019.11.11-01.48.06:953][234]LogWorld: Bringing up level for play took: 0.005453
+[2019.11.11-01.48.06:972][234]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside -0.474
+[2019.11.11-01.48.06:972][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.48.07:189][235]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066428 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-01.49.25:013][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.49.25:013][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.49.25:060][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-01.49.25:060][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.49.25:090][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.49.25:094][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.11-01.49.25:119][840]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.11.11-01.52.34:377][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-01.52.37:313][742]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-01.52.37:338][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.52.37:338][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-01.52.37:338][742]PIE: New page: PIE session: SecondLevelOutside (Nov 10, 2019, 3:52:37 PM)
+[2019.11.11-01.52.37:339][742]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.11-01.52.37:410][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070211s)
+[2019.11.11-01.52.37:410][742]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.11-01.52.37:410][742]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.11.11-01.52.37:411][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.071167s)
+[2019.11.11-01.52.37:441][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.11-01.52.37:444][742]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-01.52.37:468][742]LogInit: FAudioDevice initialized.
+[2019.11.11-01.52.37:497][742]LogLoad: Game class is 'GameEngineProjectTPSGameMode'
+[2019.11.11-01.52.37:498][742]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.11-01.52.37:502][742]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.10-20.52.37
+[2019.11.11-01.52.37:503][742]LogWorld: Bringing up level for play took: 0.005895
+[2019.11.11-01.52.37:516][742]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 0.07
+[2019.11.11-01.52.37:517][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.52.37:719][743]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066428 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-01.53.55:940][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.53.55:940][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.53.55:985][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-01.53.55:985][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.53.56:021][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.53.56:025][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.11-01.53.56:055][362]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.11.11-01.53.59:740][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-01.54.01:860][709]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-01.54.03:566][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-01.58.33:968][872]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-01.58.33:991][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.58.33:991][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-01.58.33:991][872]PIE: New page: PIE session: SecondLevelOutside (Nov 10, 2019, 3:58:33 PM)
+[2019.11.11-01.58.33:992][872]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.11-01.58.34:051][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059980s)
+[2019.11.11-01.58.34:052][872]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.11-01.58.34:052][872]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2019.11.11-01.58.34:052][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.060967s)
+[2019.11.11-01.58.34:085][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.11-01.58.34:089][872]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-01.58.34:114][872]LogInit: FAudioDevice initialized.
+[2019.11.11-01.58.34:141][872]LogLoad: Game class is 'GameEngineProjectTPSGameMode'
+[2019.11.11-01.58.34:142][872]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.11-01.58.34:146][872]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.10-20.58.34
+[2019.11.11-01.58.34:147][872]LogWorld: Bringing up level for play took: 0.005060
+[2019.11.11-01.58.34:161][872]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 0.715
+[2019.11.11-01.58.34:161][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.58.34:368][873]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066428 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-01.58.51:451][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.58.51:451][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.58.51:491][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-01.58.51:491][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-01.58.51:519][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-01.58.51:523][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.11-01.58.51:581][886]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.11.11-01.58.55:043][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-02.01.15:472][324]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-02.01.15:495][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-02.01.15:495][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-02.01.15:495][324]PIE: New page: PIE session: SecondLevelOutside (Nov 10, 2019, 4:01:15 PM)
+[2019.11.11-02.01.15:496][324]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.11-02.01.15:576][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080241s)
+[2019.11.11-02.01.15:577][324]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.11-02.01.15:577][324]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2019.11.11-02.01.15:577][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.081255s)
+[2019.11.11-02.01.15:608][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.11-02.01.15:612][324]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-02.01.15:641][324]LogInit: FAudioDevice initialized.
+[2019.11.11-02.01.15:674][324]LogLoad: Game class is 'GameEngineProjectTPSGameMode'
+[2019.11.11-02.01.15:674][324]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.11-02.01.15:678][324]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.10-21.01.15
+[2019.11.11-02.01.15:679][324]LogWorld: Bringing up level for play took: 0.005212
+[2019.11.11-02.01.15:697][324]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 0.251
+[2019.11.11-02.01.15:698][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-02.01.15:912][325]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066428 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-02.01.23:297][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-02.01.23:298][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-02.01.23:348][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-02.01.23:348][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.11-02.01.23:377][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-02.01.23:381][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.11.11-02.01.23:406][767]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.11.11-02.02.30:055][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-02.03.17:128][966]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.03.17:151][966]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.03.17:187][967]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.03.20:944][153]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.03.24:219][206]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-02.03.26:738][262]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.11-02.03.26:738][262]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.11-02.03.26:738][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.11-02.03.26:738][262]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-02.03.26:738][262]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-02.03.26:740][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-02.04.20:920][186]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.04.20:927][186]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.04.20:937][186]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.04.20:946][186]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.04.20:980][186]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.04.24:116][333]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.04.27:816][521]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.04.32:036][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.04.32:050][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.04.32:063][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.04.32:076][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.04.32:113][737]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.04.34:810][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.04.34:826][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.04.34:837][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.04.34:848][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.04.34:885][866]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.04.37:830][  8]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.04.41:756][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.04.48:628][565]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-02.04.56:821][988]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.11-02.04.56:821][988]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.11-02.04.56:821][988]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.11-02.04.56:821][988]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-02.04.56:822][988]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-02.04.56:822][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-02.04.58:594][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.04.58:601][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.04.58:609][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.04.58:616][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.04.58:652][ 78]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.02:067][245]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.05.05:801][433]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.05:814][433]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.05:829][433]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.05:840][433]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.05:879][433]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.07:636][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.07:650][509]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.05.07:650][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.07:664][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.07:675][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.07:716][509]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.08:815][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.08:830][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.08:844][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.08:855][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.08:893][552]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.09:967][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.09:980][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.09:995][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.10:007][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.10:043][594]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.11:783][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.11:797][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.11:811][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.11:821][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.11:859][669]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.14:986][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.15:000][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.15:014][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.15:026][818]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.15:064][818]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.18:978][  7]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.05.22:773][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.22:787][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.22:800][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.22:812][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.22:851][201]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.24:801][291]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.24:814][291]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.24:828][291]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.24:841][291]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.24:880][291]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.29:919][539]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.05.32:623][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.32:639][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.32:652][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.32:666][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.32:704][673]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.33:586][709]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.33:636][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.33:678][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.33:691][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.33:703][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.33:716][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.33:754][709]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.33:804][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-02.05.33:815][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-02.05.33:828][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.11-02.05.33:840][709]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.11-02.05.33:877][709]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.05.33:918][709]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-02.05.37:506][870]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.05.39:887][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.05.44:181][964]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-02.05.49:478][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-02.07.17:497][761]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.07.17:536][762]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.07.20:351][910]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.07.20:388][910]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.07.24:044][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.07.26:231][223]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.11.11-02.07.26:486][233]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-02.07.29:613][409]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-02.07.32:819][555]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-02.07.36:191][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-02.08.08:221][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.11-02.08.08:752][812]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside913F64AC4E7ACAF3B56F3CBBA601B4C2.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside.umap'
+[2019.11.11-02.08.09:270][812]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside_BuiltData0FD243FA45A8F138D1C04787A3854138.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside_BuiltData.uasset'
