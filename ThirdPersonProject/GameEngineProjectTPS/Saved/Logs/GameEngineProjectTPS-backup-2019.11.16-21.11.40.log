@@ -1,0 +1,1759 @@
+﻿Log file open, 11/16/19 14:41:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameEngineProjectTPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.144961
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:993][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.42:995][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.16-19.41.42:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.16-19.41.42:996][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.16-19.41.42:996][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.16-19.41.42:996][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.16-19.41.43:011][  0]LogHAL: Display: Platform has ~ 8 GB [8465596416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.16-19.41.43:011][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.16-19.41.43:011][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.16-19.41.43:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.16-19.41.43:012][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.16-19.41.43:013][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.16-19.41.43:013][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.16-19.41.43:013][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Config/Windows/Engine.ini]
+[2019.11.16-19.41.43:013][  0]LogInit: Computer: DESKTOP-GANUJ25
+[2019.11.16-19.41.43:013][  0]LogInit: User: julia
+[2019.11.16-19.41.43:013][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.16-19.41.43:013][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.16-19.41.43:013][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.16-19.41.43:013][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.16-19.41.43:013][  0]LogMemory: Process Physical Memory: 99.06 MB used, 99.06 MB peak
+[2019.11.16-19.41.43:013][  0]LogMemory: Process Virtual Memory: 86.66 MB used, 86.66 MB peak
+[2019.11.16-19.41.43:013][  0]LogMemory: Physical Memory: 5801.26 MB used,  2272.16 MB free, 8073.42 MB total
+[2019.11.16-19.41.43:013][  0]LogMemory: Virtual Memory: 4624.02 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.11.16-19.41.43:031][  0]LogInit: Using OS detected language (en-US).
+[2019.11.16-19.41.43:031][  0]LogInit: Using OS detected locale (en-CA).
+[2019.11.16-19.41.43:031][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.16-19.41.43:181][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.16-19.41.43:217][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.16-19.41.43:217][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.16-19.41.43:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.16-19.41.43:479][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.16-19.41.43:535][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2019.11.16-19.41.43:535][  0]LogD3D11RHI:       2010/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.16-19.41.43:545][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.11.16-19.41.43:545][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.16-19.41.43:547][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.16-19.41.43:547][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.16-19.41.43:547][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.16-19.41.43:573][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.16-19.41.43:573][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2019.11.16-19.41.43:573][  0]LogWindows: EnumDisplayDevices:
+[2019.11.16-19.41.43:573][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.11.16-19.41.43:574][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.16-19.41.43:574][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.16-19.41.43:574][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.16-19.41.43:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2019.11.16-19.41.43:574][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.16-19.41.43:574][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.16-19.41.43:574][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.11.16-19.41.43:613][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.16-19.41.43:617][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.16-19.41.43:617][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.16-19.41.43:617][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.16-19.41.43:631][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.16-19.41.43:920][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.16-19.41.43:934][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.16-19.41.43:949][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.16-19.41.43:963][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.16-19.41.43:977][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.16-19.41.43:991][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.16-19.41.44:005][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.16-19.41.44:020][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.16-19.41.44:026][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.16-19.41.44:112][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.16-19.41.44:113][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.16-19.41.44:166][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.16-19.41.44:166][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.16-19.41.44:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.16-19.41.44:198][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.16-19.41.44:213][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.16-19.41.44:231][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.16-19.41.44:245][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.16-19.41.44:261][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.16-19.41.44:316][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.16-19.41.44:316][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.16-19.41.44:316][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.16-19.41.44:327][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.16-19.41.44:384][  0]LogShaderCompilers: Guid format shader working directory is -62 characters bigger than the processId version (../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Intermediate/Shaders/WorkingDirectory/10144/).
+[2019.11.16-19.41.44:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/julia/AppData/Local/Temp/UnrealShaderWorkingDir/5CF08F3E47D6D68DC1C3D4BCCA752033/'.
+[2019.11.16-19.41.44:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.16-19.41.44:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.16-19.41.44:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.16-19.41.44:955][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/julia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/julia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.16-19.41.45:001][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.16-19.41.45:014][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.16-19.41.45:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.16-19.41.45:014][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.16-19.41.45:026][  0]LogDerivedDataCache: Using Local data cache path C:/Users/julia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.16-19.41.45:026][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.16-19.41.45:026][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.16-19.41.45:055][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.16-19.41.45:057][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.16-19.41.45:057][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.16-19.41.45:135][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2019.11.16-19.41.45:528][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.16-19.41.45:663][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.16-19.41.45:663][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.16-19.41.45:663][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.16-19.41.45:663][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.16-19.41.45:663][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.16-19.41.45:673][  0]LogNetVersion: GameEngineProjectTPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2396041640)
+[2019.11.16-19.41.46:056][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038942 seconds
+[2019.11.16-19.41.46:062][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.16-19.41.46:062][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.16-19.41.46:062][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.16-19.41.46:838][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.16-19.41.46:851][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.16-19.41.47:073][  0]SourceControl: Source control is disabled
+[2019.11.16-19.41.47:073][  0]SourceControl: Source control is disabled
+[2019.11.16-19.41.47:075][  0]SourceControl: Source control is disabled
+[2019.11.16-19.41.47:075][  0]SourceControl: Source control is disabled
+[2019.11.16-19.41.47:135][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.16-19.41.47:198][  0]LogOcInput: OculusInput pre-init called
+[2019.11.16-19.41.47:863][  0]LogEngine: Initializing Engine...
+[2019.11.16-19.41.47:864][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.16-19.41.47:864][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.16-19.41.48:065][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.16-19.41.48:077][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.16-19.41.48:092][  0]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.16-19.41.48:250][  0]LogInit: FAudioDevice initialized.
+[2019.11.16-19.41.48:250][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.16-19.41.48:344][  0]LogDerivedDataCache: Saved boot cache 0.09s 75MB C:/Users/julia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.16-19.41.48:353][  0]LogInit: Texture streaming: Enabled
+[2019.11.16-19.41.48:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.16-19.41.48:392][  0]LogInit: Transaction tracking system initialized
+[2019.11.16-19.41.48:417][  0]BlueprintLog: New page: Editor Load
+[2019.11.16-19.41.48:491][  0]LocalizationService: Localization service is disabled
+[2019.11.16-19.41.48:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/' took 0.01s
+[2019.11.16-19.41.48:782][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.16-19.41.48:782][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.16-19.41.48:942][  0]SourceControl: Source control is disabled
+[2019.11.16-19.41.48:943][  0]LightingResults: New page: Lighting Build
+[2019.11.16-19.41.48:946][  0]MapCheck: New page: Map Check
+[2019.11.16-19.41.48:946][  0]LightingResults: New page: Lighting Build
+[2019.11.16-19.41.48:967][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.16-19.41.49:155][  0]LogBlueprint: Error: [Compiler BP_Player] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.11.16-19.41.49:156][  0]LogBlueprint: Error: [Compiler BP_Player] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.11.16-19.41.49:159][  0]LogBlueprint: Error: [Compiler BP_Player] In use pin  Tracer Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Warning: [Compiler BP_Player] Could not find a variable named "Tracer" in 'BP_Player'.
+Make sure 'BP_Player' has been compiled for  Set Tracer
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Warning: [Compiler BP_Player] Could not find a variable named "DefaultSceneRoot" in 'BP_Player'.
+Make sure 'BP_Player' has been compiled for  Get DefaultSceneRoot
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Error: [Compiler BP_Player] In use pin  Tracer Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Error: [Compiler BP_Player] In use pin  Tracer Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Warning: [Compiler BP_Player] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Error: [Compiler BP_Player] In use pin  Orb Toss Velocity  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin.
+[2019.11.16-19.41.49:160][  0]LogBlueprint: Warning: [Compiler BP_Player] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2019.11.16-19.41.49:178][  0]LogBlueprint: Error: [Compiler BP_Player] The property associated with  Default Scene Root  could not be found in '/Game/Phil/Player/BP_Player.BP_Player_C'
+[2019.11.16-19.41.49:200][  0]LogBlueprint: Warning: [Compiler BP_Player] [0007.47] Compile of BP_Player failed. 7 Fatal Issue(s) 4 Warning(s) [in 105 ms] (/Game/Phil/Player/BP_Player.BP_Player)
+[2019.11.16-19.41.49:476][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.16-19.41.49:486][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.16-19.41.49:515][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.16-19.41.49:515][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.16-19.41.49:516][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.11.16-19.41.49:516][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.573
+[2019.11.16-19.41.49:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.41.49:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.41.49:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.41.49:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.41.49:677][  0]LogCollectionManager: Loaded 0 collections in 0.001683 seconds
+[2019.11.16-19.41.49:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Collections/' took 0.01s
+[2019.11.16-19.41.49:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Developers/julia/Collections/' took 0.00s
+[2019.11.16-19.41.49:698][  0]LogFileCache: Scanning file cache for directory 'C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Collections/' took 0.00s
+[2019.11.16-19.41.49:698][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.16-19.41.49:711][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2734 classes and 661 folders.
+[2019.11.16-19.41.49:718][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-19.41.49:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.16-19.41.49:749][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-19.41.49:754][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.16-19.41.49:819][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.16-19.41.49:822][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.16-19.41.49:829][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.16-19.41.49:889][  0]LogRenderer: Reallocating scene render targets to support 720x444 Format 10 NumSamples 1 (Frame:1).
+[2019.11.16-19.41.50:148][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-19.41.50:148][  0]LogLoad: (Engine Initialization) Total time: 8.42 seconds
+[2019.11.16-19.41.50:148][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.16-19.41.50:196][  0]LogAssetRegistry: Asset discovery search completed in 5.0836 seconds
+[2019.11.16-19.41.50:200][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.16-19.41.50:200][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.11.16-19.41.50:201][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.16-19.41.50:232][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.16-19.41.55:373][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-19.41.58:151][429]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.16-19.41.58:273][429]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.16-19.41.58:274][429]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.41.58:310][429]LogAssetEditorManager: Opening Asset editor for World /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside
+[2019.11.16-19.41.58:329][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.16-19.41.58:330][429]LightingResults: New page: Lighting Build
+[2019.11.16-19.41.58:331][429]LoadErrors: New page: Loading map: SecondLevelOutside.umap
+[2019.11.16-19.41.58:332][429]MapCheck: New page: Map Check
+[2019.11.16-19.41.58:332][429]LightingResults: New page: Lighting Build
+[2019.11.16-19.41.58:352][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.11.16-19.41.58:353][429]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.41.58:458][429]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.16-19.41.58:490][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.16-19.41.58:540][429]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.16-19.41.58:541][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.985ms to complete.
+[2019.11.16-19.41.58:541][429]LogFileHelpers: Loading map 'SecondLevelOutside' took 0.211
+[2019.11.16-19.42.04:393][748]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-19.42.04:417][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.42.04:417][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-19.42.08:390][748]LogSlate: Window 'Message' being destroyed
+[2019.11.16-19.42.18:459][329]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-19.42.18:482][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.42.18:483][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-19.42.28:219][329]LogSlate: Window 'Message' being destroyed
+[2019.11.16-19.42.44:706][315]LogAssetEditorManager: Opening Asset editor for World /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside
+[2019.11.16-19.42.44:726][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.16-19.42.44:727][315]LightingResults: New page: Lighting Build
+[2019.11.16-19.42.44:727][315]LoadErrors: New page: Loading map: SecondLevelOutside.umap
+[2019.11.16-19.42.44:729][315]MapCheck: New page: Map Check
+[2019.11.16-19.42.44:729][315]LightingResults: New page: Lighting Build
+[2019.11.16-19.42.44:752][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.16-19.42.44:821][315]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.16-19.42.44:822][315]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.42.44:958][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.16-19.42.44:990][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.16-19.42.45:036][315]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.16-19.42.45:036][315]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2019.11.16-19.42.45:037][315]LogFileHelpers: Loading map 'SecondLevelOutside' took 0.311
+[2019.11.16-19.42.47:525][451]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-19.42.47:549][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.42.47:549][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-19.42.50:877][451]LogSlate: Window 'Message' being destroyed
+[2019.11.16-19.43.03:146][122]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Phil/Player/BP_Player.BP_Player
+[2019.11.16-19.43.03:577][122]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.16-19.43.04:523][122]LogSlate: Took 0.007077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.16-19.43.04:923][123]LogSlate: Took 0.006500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.16-19.43.21:780][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.16-19.43.22:280][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.16-19.43.22:788][ 55]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.16-19.43.23:288][ 55]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.16-19.43.25:146][163]BlueprintLog: New page: Compile BP_Player
+[2019.11.16-19.43.25:491][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.16-19.43.28:597][305]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player7935226E47F749FF72EEAAAA8288C9C4.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.11.16-19.43.32:860][557]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-19.43.32:887][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.43.32:887][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-19.43.32:888][557]PIE: New page: PIE session: SecondLevelOutside (Nov 16, 2019, 9:43:32 AM)
+[2019.11.16-19.43.32:901][557]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.16-19.43.32:963][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062917s)
+[2019.11.16-19.43.32:964][557]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.16-19.43.32:964][557]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.11.16-19.43.32:964][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.063823s)
+[2019.11.16-19.43.33:013][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.11.16-19.43.33:017][557]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.16-19.43.33:043][557]LogInit: FAudioDevice initialized.
+[2019.11.16-19.43.33:081][557]LogLoad: Game class is 'FPS_C'
+[2019.11.16-19.43.33:082][557]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.43.33:085][557]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.16-14.43.33
+[2019.11.16-19.43.33:086][557]LogWorld: Bringing up level for play took: 0.004016
+[2019.11.16-19.43.33:103][557]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.16-19.43.33:107][557]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.16-19.43.33:107][557]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.16-19.43.33:110][557]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 0.605
+[2019.11.16-19.43.33:111][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.43.46:447][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.43.46:448][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.43.46:493][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-19.43.46:493][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-19.43.46:535][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-19.43.46:558][322]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.11.16-19.43.46:633][323]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.16-19.44.46:178][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-19.46.46:396][551]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\NormalMap (1).png)
+[2019.11.16-19.46.46:412][551]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.46.46:414][551]LogTexture: Display: Building textures: NormalMap__1_ (BC5, 600X600)
+[2019.11.16-19.46.46:452][551]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.47.02:507][322]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\NormalMap.png)
+[2019.11.16-19.47.02:528][322]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.47.02:529][322]LogTexture: Display: Building textures: NormalMap (BGRA8, 920X919)
+[2019.11.16-19.47.02:555][322]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:899][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\AmbientOcclusionMap.png)
+[2019.11.16-19.48.35:906][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:907][335]LogTexture: Display: Building textures: AmbientOcclusionMap (AutoDXT, 600X600)
+[2019.11.16-19.48.35:932][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:942][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\SpecularMap.png)
+[2019.11.16-19.48.35:949][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:950][335]LogTexture: Display: Building textures: SpecularMap (AutoDXT, 600X600)
+[2019.11.16-19.48.35:973][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:984][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\DisplacementMap.png)
+[2019.11.16-19.48.35:992][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.48.35:993][335]LogTexture: Display: Building textures: DisplacementMap (AutoDXT, 600X600)
+[2019.11.16-19.48.36:014][335]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.49.01:755][764]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SpecularMapBloodA129862C4880E2A7F52BDFA0D3600499.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/SpecularMapBlood.uasset'
+[2019.11.16-19.49.01:949][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.11.16-19.49.01:990][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.16-19.49.02:024][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.16-19.49.12:824][398]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/NormalMap_Blood30019FA04DCFACE66B6D36B1DF1F87C1.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/NormalMap_Blood.uasset'
+[2019.11.16-19.49.13:016][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.16-19.49.13:059][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.16-19.49.13:098][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.16-19.49.23:242][993]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/DisplacementMap_Blood7D63CA564CFC189AD2BD1F8BDC083965.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/DisplacementMap_Blood.uasset'
+[2019.11.16-19.49.23:441][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.16-19.49.23:485][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.16-19.49.23:524][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.16-19.49.31:306][444]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/AmbientOcclusionMap_BloodCD2915914F8D54461D5E35BAA3DF46AF.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/AmbientOcclusionMap_Blood.uasset'
+[2019.11.16-19.49.31:501][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.11.16-19.49.31:544][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.16-19.49.31:582][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.16-19.50.24:260][575]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/NormalMap_EnemyA169749E4906D7904842238CC5DBC00E.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Enemy/NormalMap_Enemy.uasset'
+[2019.11.16-19.50.24:411][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.16-19.50.24:444][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.16-19.50.24:473][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.16-19.50.33:494][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\AmbientOcclusionMap (1).png)
+[2019.11.16-19.50.33:507][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.33:509][720]LogTexture: Display: Building textures: AmbientOcclusionMap__1_ (BGRA8, 920X919)
+[2019.11.16-19.50.33:558][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.33:569][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\DisplacementMap (1).png)
+[2019.11.16-19.50.33:581][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.33:582][720]LogTexture: Display: Building textures: DisplacementMap__1_ (BGRA8, 920X919)
+[2019.11.16-19.50.33:625][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.33:636][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\SpecularMap (1).png)
+[2019.11.16-19.50.33:648][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.33:649][720]LogTexture: Display: Building textures: SpecularMap__1_ (BGRA8, 920X919)
+[2019.11.16-19.50.33:688][720]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-19.50.45:792][373]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/AmbientOcclusionMap_EnemyC8D63C62442CFC649EEB038E9437B37D.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Enemy/AmbientOcclusionMap_Enemy.uasset'
+[2019.11.16-19.50.45:948][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.11.16-19.50.45:983][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.16-19.50.46:012][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.16-19.51.02:223][335]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/DisplacementMap_Enemy043F54E4433310C0AF1FB8AE48D84BB2.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Enemy/DisplacementMap_Enemy.uasset'
+[2019.11.16-19.51.02:376][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.16-19.51.02:410][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.11.16-19.51.02:439][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.16-19.51.13:884][  8]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SpecularMap_EnemyA5EC10DF4AA2F0052293019963232FB9.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Enemy/SpecularMap_Enemy.uasset'
+[2019.11.16-19.51.14:039][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.16-19.51.14:073][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.16-19.51.14:104][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.16-19.51.17:510][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.16-19.51.18:045][201]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside3FD5E2CE405FF692D89C0EA23AB1399A.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside.umap'
+[2019.11.16-19.51.18:650][201]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside_BuiltData078541764A163699D97091B9ACCA5601.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside_BuiltData.uasset'
+[2019.11.16-19.59.54:978][208]LogAssetEditorManager: Opening Asset editor for Material /Game/Julian/MaterialJ/Blood_M.Blood_M
+[2019.11.16-19.59.54:994][208]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-19.59.55:413][208]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-19.59.55:431][208]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-19.59.55:459][208]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-19.59.57:554][311]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.00.02:477][478]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.00.02:477][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.00.02:477][478]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.00.02:477][478]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.00.37:197][925]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.00.37:212][925]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.00.37:212][925]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.16-20.00.40:622][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.00.44:569][199]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.00.44:569][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.00.44:569][199]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.00.44:569][199]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.01.17:821][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.16-20.01.17:821][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/SecondLevelOutside' took 0.038
+[2019.11.16-20.01.17:822][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/MaterialJ/Blood_M] ([1] browsable assets)...
+[2019.11.16-20.01.17:918][298]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Julian/MaterialJ/Blood_M.Blood_M]
+[2019.11.16-20.01.17:918][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/MaterialJ/Blood_M]
+[2019.11.16-20.01.17:938][298]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_M_Auto174ECAA624B35E568F03CAEA4BCC8CE3D.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/MaterialJ/Blood_M_Auto1.uasset'
+[2019.11.16-20.01.17:939][298]LogFileHelpers: Auto-saving content packages took 0.117
+[2019.11.16-20.09.30:590][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.16-20.09.36:623][908]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.16-20.09.36:741][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.16-20.09.36:772][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.16-20.09.36:801][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.16-20.09.36:830][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.16-20.09.36:864][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.16-20.09.36:893][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.16-20.09.48:552][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.16-20.09.51:007][602]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.16-20.09.51:115][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.16-20.09.51:150][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.16-20.09.51:184][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.16-20.09.51:215][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.16-20.09.51:248][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.16-20.09.51:277][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.16-20.13.14:264][520]Cmd: TRANSACTION UNDO
+[2019.11.16-20.13.14:264][520]LogEditorTransaction: Undo Move Node
+[2019.11.16-20.13.14:271][520]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.13.14:296][520]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.13.16:121][628]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.13.16:218][633]Cmd: TRANSACTION UNDO
+[2019.11.16-20.13.16:218][633]LogEditorTransaction: Undo Material Editor: New Expression
+[2019.11.16-20.13.16:223][633]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.13.16:249][633]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.13.17:047][679]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.13.18:590][770]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.13.22:154][977]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.13.22:154][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.13.22:154][977]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.13.22:154][977]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.13.26:457][233]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-20.13.26:489][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-20.13.26:489][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-20.13.26:489][233]PIE: New page: PIE session: SecondLevelOutside (Nov 16, 2019, 10:13:26 AM)
+[2019.11.16-20.13.26:489][233]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside
+[2019.11.16-20.13.26:553][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063890s)
+[2019.11.16-20.13.26:554][233]LogAIModule: Creating AISystem for world SecondLevelOutside
+[2019.11.16-20.13.26:554][233]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.11.16-20.13.26:554][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside to /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside (0.064752s)
+[2019.11.16-20.13.26:592][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.16-20.13.26:598][233]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.16-20.13.26:623][233]LogInit: FAudioDevice initialized.
+[2019.11.16-20.13.26:665][233]LogLoad: Game class is 'FPS_C'
+[2019.11.16-20.13.26:669][233]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.13.26:680][233]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside.SecondLevelOutside up for play (max tick rate 60) at 2019.11.16-15.13.26
+[2019.11.16-20.13.26:682][233]LogWorld: Bringing up level for play took: 0.014666
+[2019.11.16-20.13.26:706][233]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_SecondLevelOutside 0.201
+[2019.11.16-20.13.26:706][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-20.13.37:159][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-20.13.37:160][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-20.13.37:211][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-20.13.37:212][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside' with GeneratedClass '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside_C' with ClassGeneratedBy '/Game/Julian/Maps/SecondLevelOutside.SecondLevelOutside:PersistentLevel.SecondLevelOutside'
+[2019.11.16-20.13.37:277][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-20.13.37:283][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.16-20.13.37:402][826]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.16-20.13.39:518][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-20.23.18:326][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Documents\Unreal Projects\imagesPS\89479969-water-splash-isolate-on-black-background.jpg)
+[2019.11.16-20.23.18:336][152]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.18:337][152]LogTexture: Display: Building textures: 89479969-water-splash-isolate-on-black-background (BGRA8, 450X300)
+[2019.11.16-20.23.18:353][152]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.33:027][917]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_TexttureE15409C846E474147A0BB59FCA38DB3B.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Blood_Textture.uasset'
+[2019.11.16-20.23.33:186][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.16-20.23.33:221][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.16-20.23.33:249][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.16-20.23.46:730][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\SpecularMap.png)
+[2019.11.16-20.23.46:736][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:736][196]LogTexture: Display: Building textures: SpecularMap (BGRA8, 450X300)
+[2019.11.16-20.23.46:749][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:758][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\AmbientOcclusionMap.png)
+[2019.11.16-20.23.46:764][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:765][196]LogTexture: Display: Building textures: AmbientOcclusionMap (BGRA8, 450X300)
+[2019.11.16-20.23.46:778][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:787][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\DisplacementMap.png)
+[2019.11.16-20.23.46:792][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:793][196]LogTexture: Display: Building textures: DisplacementMap (BGRA8, 450X300)
+[2019.11.16-20.23.46:806][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:813][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\julia\Downloads\NormalMap.png)
+[2019.11.16-20.23.46:823][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.23.46:823][196]LogTexture: Display: Building textures: NormalMap (BGRA8, 450X300)
+[2019.11.16-20.23.46:835][196]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.24.17:555][886]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_AmbientcclusionMapC960260D41990B473E4E2C83D143A8E3.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Blood_AmbientcclusionMap.uasset'
+[2019.11.16-20.24.17:713][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.16-20.24.17:748][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.16-20.24.17:777][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.16-20.24.25:660][349]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_DisplacementMap04689D3F482ECA183FE7D0BAE90DF08D.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Blood_DisplacementMap.uasset'
+[2019.11.16-20.24.25:810][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.16-20.24.25:844][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.16-20.24.25:873][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.16-20.25.00:253][399]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_NormalMap54CC68F14CC0C3DC8353999386A0E62B.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Blood_NormalMap.uasset'
+[2019.11.16-20.25.00:408][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.16-20.25.00:441][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.16-20.25.00:471][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.16-20.25.11:179][ 30]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_SpecularMapEF5208354BB3FCDA9B60938644557049.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Blood_SpecularMap.uasset'
+[2019.11.16-20.25.11:333][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.16-20.25.11:369][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.16-20.25.11:400][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.16-20.25.37:083][333]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.25.37:099][333]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.16-20.25.37:125][334]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.25.39:686][471]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.25.43:496][635]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.25.43:496][635]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.25.43:496][635]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.25.43:496][635]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.25.51:267][  8]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.25.51:299][  8]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.25.51:299][  8]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.16-20.25.51:336][  8]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.25.52:980][ 95]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.25.54:822][184]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.25.58:182][305]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.25.58:182][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.25.58:182][305]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.25.58:182][305]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.26.46:705][826]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.26.46:721][826]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.26.46:721][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.16-20.26.47:656][876]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.26.50:361][ 21]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.26.54:576][241]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.26.54:576][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.26.54:576][241]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.26.54:576][241]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.27.10:248][ 46]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.27.10:271][ 46]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.27.10:271][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.16-20.27.10:305][ 46]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.27.12:180][145]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.27.14:753][271]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.27.18:799][343]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.16-20.27.18:799][343]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.16-20.27.18:799][343]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.16-20.27.18:799][343]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.29.09:369][830]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.29.09:400][830]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.29.10:731][899]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.29.10:827][899]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.29.10:860][899]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.29.10:939][901]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.29.13:289][ 27]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.29.17:965][234]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.29.22:355][352]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.29.22:356][352]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.29.22:356][352]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.29.22:356][352]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.30.02:975][627]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.30.03:026][628]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.30.06:605][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.30.07:430][859]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.30.07:465][859]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.30.07:475][859]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.16-20.30.07:956][884]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.30.11:209][985]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.30.14:625][ 63]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.30.19:075][167]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.30.19:075][167]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.30.19:075][167]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.30.19:075][167]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.30.39:549][246]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.30.39:603][247]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.30.43:640][467]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.30.44:178][495]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.30.45:040][542]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.30.47:930][621]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.30.51:591][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.30.56:997][825]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.30.56:997][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.30.56:998][825]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.30.56:998][825]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.31.03:988][937]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.31.04:012][937]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.31.04:012][937]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.16-20.31.08:778][189]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.31.12:655][264]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.31.16:998][357]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.31.16:998][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.31.16:998][357]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.31.16:998][357]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.35.26:057][ 66]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.35.26:092][ 66]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.35.26:092][ 66]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.16-20.35.26:119][ 66]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.35.27:232][119]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.35.30:826][296]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.35.34:790][371]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.35.40:284][530]LogAssetEditorManager: Opening Asset editor for TextureCube /Engine/Engine_MI_Shaders/T_Cubemap_01.T_Cubemap_01
+[2019.11.16-20.35.40:312][530]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.11.16-20.35.40:313][530]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.11.16-20.35.40:889][531]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.35.40:889][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.35.40:889][531]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.35.40:889][531]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.36.15:465][111]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.36.15:492][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.16-20.36.15:511][111]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.36.20:519][385]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.36.25:554][575]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.36.29:483][659]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.36.29:483][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.36.29:484][659]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.36.29:484][659]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.37.02:931][177]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.37.02:975][178]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.37.06:732][384]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.37.12:533][661]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.37.17:547][776]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.37.17:547][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.37.17:547][776]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.37.17:547][776]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.37.24:326][977]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.37.24:378][978]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.37.28:211][188]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.37.33:845][423]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.37.39:853][651]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.37.39:890][651]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.37.43:112][779]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.37.47:101][858]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.37.52:379][977]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.37.52:379][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.37.52:379][977]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.37.52:379][977]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.38.06:511][541]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.38.06:570][542]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.38.10:763][763]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.38.14:801][838]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.38.19:902][972]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.38.19:902][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.38.19:902][972]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.38.19:902][972]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.39.24:958][891]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.39.24:982][891]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.39.25:024][892]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.39.28:650][ 83]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.39.32:371][150]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.39.37:414][250]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.39.37:455][250]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.39.42:161][504]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.39.43:525][573]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.16-20.39.47:718][717]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.39.54:116][827]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.39.54:116][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.39.54:116][827]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.39.54:116][827]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.40.27:783][309]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.40.27:812][310]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.40.31:753][523]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.40.33:650][624]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.40.33:754][628]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.40.37:438][746]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.40.42:125][813]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.40.46:763][915]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.40.46:763][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.40.46:763][915]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.40.46:763][915]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.41.07:624][276]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.41.07:664][278]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.41.11:874][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.41.19:949][931]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.41.20:300][947]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.41.23:572][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.41.28:314][177]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.41.31:579][345]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.41.31:628][345]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.16-20.41.32:877][411]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.41.36:637][527]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.41.40:582][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.41.47:840][884]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.41.47:840][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.41.47:840][884]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.41.47:840][884]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.41.52:393][125]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.41.52:426][126]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.41.56:189][298]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.42.00:055][370]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.42.06:089][480]MaterialEditorStats: Base pass shader: 66 instructions
+[2019.11.16-20.42.06:089][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2019.11.16-20.42.06:090][480]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.11.16-20.42.06:090][480]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.42.14:799][926]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.42.14:835][927]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.42.19:361][168]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.42.28:609][666]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.42.34:535][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.43.10:244][203]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.11.16-20.43.35:370][ 11]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.43.35:396][ 11]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.43.35:424][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.11.16-20.43.39:052][203]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.43.39:099][203]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.11.16-20.43.39:839][242]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.43.43:607][353]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.43.47:108][428]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.43.52:049][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.44.32:452][717]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.44.32:518][718]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.44.36:250][911]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.44.39:812][974]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.44.44:415][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.44.52:273][394]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.44.52:299][394]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.44.52:333][395]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.44.54:285][500]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.44.54:831][529]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.45.00:408][834]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.45.01:193][877]LogHttp: Warning: 000001E9B98FF100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.16-20.45.01:194][877]LogHttp: Warning: 000001E9B98FF100: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2019.11.16-20.45.01:194][877]LogHttp: Warning: 000001E9B98FF100: libcurl info message cache 1 (Closing connection 23)
+[2019.11.16-20.45.01:194][877]LogHttp: Warning: 000001E9B98FF100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.16-20.45.01:194][877]LogHttp: Warning: 000001E9B98FF100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.16-20.45.01:194][877]LogHttp: Warning: 000001E9B98FF100: libcurl info message cache 4 (Closing connection 24)
+[2019.11.16-20.45.01:212][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A2DAD4A-4764-4B27-E4C2-23B3D13EAD8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=338d4cdc4a49dfedf898afb7e10807f4%7C3e78faa684764497ba15c362f625de9d%7C02b4bbb0-dab0-4e7e-b0da-86c87c91e460&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.16-20.45.06:562][ 38]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.45.11:559][143]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.11.16-20.45.11:560][143]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.11.16-20.45.11:560][143]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.45.11:560][143]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.45.11:560][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.45.11:560][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.45.23:652][426]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.23:688][426]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.23:737][427]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.45.26:453][571]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.27:388][618]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.45.28:220][661]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.28:260][661]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.45.31:632][782]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.45.35:809][855]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.45.41:061][964]MaterialEditorStats: Base pass shader: 69 instructions
+[2019.11.16-20.45.41:062][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2019.11.16-20.45.41:062][964]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.45.41:062][964]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.45.41:062][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.45.41:062][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.45.52:854][403]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.52:892][403]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.45.52:965][404]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.45.58:489][553]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.46.02:385][627]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.46.08:227][876]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.46.08:486][886]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.46.12:631][ 93]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.46.17:116][185]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: Base pass shader: 74 instructions
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.46.22:544][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.48.02:816][900]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.48.02:842][900]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.48.02:842][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.16-20.48.07:249][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.48.10:021][177]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: Base pass shader: 74 instructions
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.48.13:505][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.48.28:156][651]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.48.28:190][652]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.48.31:234][811]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.48.31:425][820]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.48.37:144][130]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.48.41:086][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: Base pass shader: 74 instructions
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.48.46:897][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.49.04:951][589]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.49.04:990][589]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.49.04:990][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.11.16-20.49.10:454][866]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.49.14:967][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.49.20:091][ 20]MaterialEditorStats: Base pass shader: 74 instructions
+[2019.11.16-20.49.20:092][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2019.11.16-20.49.20:092][ 20]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.49.20:092][ 20]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.49.20:092][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.49.20:092][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.50.11:657][616]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.50.11:710][617]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.50.16:131][858]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.50.23:622][245]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.50.23:657][245]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.50.23:665][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.16-20.50.24:247][274]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.50.27:342][392]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.50.31:400][465]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: Base pass shader: 74 instructions
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.16-20.50.35:917][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.50.43:244][872]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.50.43:278][873]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.50.46:834][ 57]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.50.46:872][ 57]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.50.51:369][286]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.50.55:942][364]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.51.01:476][475]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.11.16-20.51.01:476][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2019.11.16-20.51.01:476][475]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.51.01:476][475]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.51.01:476][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.51.01:477][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.52.08:571][  1]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.52.08:629][  2]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.52.13:172][245]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.52.14:883][336]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.52.15:372][360]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.52.18:797][452]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.52.22:876][531]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.52.28:480][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.52.36:320][890]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.52.36:404][891]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.52.41:047][136]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.52.43:871][280]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.52.44:563][312]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.52.47:382][459]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.52.47:428][459]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.11.16-20.52.48:988][539]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.52.52:519][618]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.52.56:361][695]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.53.01:562][781]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.11.16-20.53.01:562][781]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2019.11.16-20.53.01:563][781]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.53.01:563][781]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.53.01:563][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.53.01:563][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.53.04:394][908]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.04:474][909]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.08:175][ 97]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.53.08:826][129]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.09:618][167]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.13:403][359]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.53.21:450][768]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.53.22:889][839]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.23:560][869]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.28:743][128]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.53.30:472][215]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.30:518][215]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.30:691][218]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.33:153][335]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.33:366][343]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.37:512][550]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.53.42:392][638]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.53.48:020][771]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.11.16-20.53.48:020][771]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2019.11.16-20.53.48:020][771]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.53.48:021][771]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.53.48:021][771]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.53.48:021][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.53.54:180][ 99]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.53.54:216][100]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.53.57:783][242]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.54.02:029][314]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: Base pass shader: 96 instructions
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.54.07:988][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.54.15:275][620]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.15:302][620]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.15:338][621]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.54.19:142][820]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.54.19:921][860]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.20:710][897]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.54.22:107][967]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.22:245][972]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.54.25:572][ 95]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-20.54.30:217][178]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-20.54.35:742][281]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-20.54.35:742][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-20.54.35:742][281]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.54.35:743][281]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.54.35:743][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.54.35:743][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.54.48:119][386]LogMaterialEditor: Applying material Blood_M
+[2019.11.16-20.54.48:585][386]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.48:677][386]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.54.48:697][386]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.48:737][386]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.54.48:769][386]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.54.49:012][386]LogUObjectHash: Compacting FUObjectHashTables data took   9.92ms
+[2019.11.16-20.54.49:029][386]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.16-20.54.54:926][386]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.16-20.54.54:926][386]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.16-20.54.54:930][386]TextureStreamingBuild: Display: Compiling optional shaders took 5.917 seconds.
+[2019.11.16-20.54.55:069][386]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.11.16-20.55.03:394][814]LogMaterialEditor: Saving and Compiling material Blood_M
+[2019.11.16-20.55.07:441][814]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_M184E3D0A4CDF0F7AAF138F8FD4C3B112.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/MaterialJ/Blood_M.uasset'
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.55.07:464][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.56.29:193][664]LogMaterialEditor: Applying material Blood_M
+[2019.11.16-20.56.29:611][664]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.56.29:696][664]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.56.29:715][664]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.56.29:748][664]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.56.29:782][664]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-20.56.29:833][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.16-20.56.29:849][664]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.16-20.56.35:845][664]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.16-20.56.35:845][664]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.16-20.56.35:845][664]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.16-20.56.35:848][664]TextureStreamingBuild: Display: Compiling optional shaders took 6.015 seconds.
+[2019.11.16-20.56.35:904][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.16-20.56.38:987][819]LogMaterialEditor: Saving and Compiling material Blood_M
+[2019.11.16-20.56.44:269][819]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_M205A53C5438829FD9B1BA199FE743A63.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/MaterialJ/Blood_M.uasset'
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.56.44:283][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.57.05:127][ 51]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Julian/Textures/Blood/Liquid.Liquid
+[2019.11.16-20.57.05:149][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2019.11.16-20.57.05:150][ 51]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2019.11.16-20.57.05:247][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.11.16-20.57.31:143][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.11.16-20.57.31:143][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/SecondLevelOutside' took 0.068
+[2019.11.16-20.57.31:145][252]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/Textures/Blood/Liquid] ([1] browsable assets)...
+[2019.11.16-20.57.31:150][252]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Julian/Textures/Blood/Liquid.Liquid]
+[2019.11.16-20.57.31:150][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/Textures/Blood/Liquid]
+[2019.11.16-20.57.31:164][252]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Liquid_Auto28D5CAD4046EA461F97B98F8466C18426.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Textures/Blood/Liquid_Auto2.uasset'
+[2019.11.16-20.57.31:165][252]LogFileHelpers: Auto-saving content packages took 0.020
+[2019.11.16-20.58.08:963][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-20.58.16:350][305]LogMaterial: Warning: Material /Game/Julian/MaterialJ/Blood_M.Blood_M needed to have new flag set bUsedWithParticleSprites !
+[2019.11.16-20.58.16:352][305]LogMaterial: Warning: Material /Engine/Transient.Blood_M needed to have new flag set bUsedWithParticleSprites !
+[2019.11.16-20.58.16:355][305]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.58.16:377][305]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-20.58.16:377][305]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-20.58.17:837][373]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.16-20.58.23:523][647]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.16-20.58.27:399][737]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.16-20.58.47:563][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-20.58.58:097][984]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: Texture samplers: 7/16
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-20.59.22:064][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-20.59.46:749][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-20.59.51:126][457]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.16-20.59.54:732][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-21.00.43:650][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-21.00.51:141][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.11.16-21.01.08:200][658]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.01.08:233][659]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.01.12:414][875]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-21.01.17:962][ 23]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-21.02.20:184][278]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.02.20:227][279]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.02.21:011][320]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.02.21:645][353]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.02.21:915][366]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.02.22:407][391]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.02.27:418][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-21.02.36:382][135]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-21.02.48:456][777]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.02.48:491][778]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.02.53:164][ 26]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.16-21.03.01:284][451]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-21.03.10:054][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-21.07.31:334][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.11.16-21.07.31:334][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/SecondLevelOutside' took 0.071
+[2019.11.16-21.07.31:335][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Julian/MaterialJ/Blood_M] ([1] browsable assets)...
+[2019.11.16-21.07.31:335][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/MaterialJ/Blood_M]
+[2019.11.16-21.07.31:360][ 40]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_M_Auto3473F48C14182D41EC6ADF1A5C8819F3F.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/MaterialJ/Blood_M_Auto3.uasset'
+[2019.11.16-21.07.31:361][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/Textures/Blood/Liquid] ([1] browsable assets)...
+[2019.11.16-21.07.31:367][ 40]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Julian/Textures/Blood/Liquid.Liquid]
+[2019.11.16-21.07.31:367][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/Textures/Blood/Liquid]
+[2019.11.16-21.07.31:382][ 40]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Liquid_Auto3D4252EA5456E776B2DA4329B8F41E6E6.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Textures/Blood/Liquid_Auto3.uasset'
+[2019.11.16-21.07.31:382][ 40]LogFileHelpers: Auto-saving content packages took 0.048
+[2019.11.16-21.08.50:956][ 82]LogMaterialEditor: Applying material Blood_M
+[2019.11.16-21.08.51:354][ 82]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.08.51:440][ 82]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.16-21.08.51:454][ 82]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.08.51:535][ 82]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.08.51:610][ 82]LogModelComponent: Warning: Material Rock_030_COLOR_Mat requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2019.11.16-21.08.51:659][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.16-21.08.51:668][ 82]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.16-21.08.57:152][ 82]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.16-21.08.57:152][ 82]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.16-21.08.57:153][ 82]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.16-21.08.57:157][ 82]TextureStreamingBuild: Display: Compiling optional shaders took 5.497 seconds.
+[2019.11.16-21.08.57:215][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.16-21.09.09:199][687]LogMaterial: Display: Missing cached shader map for material Blood_M, compiling. 
+[2019.11.16-21.09.22:268][366]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.16-21.09.30:825][805]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.16-21.09.40:194][281]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: Base pass shader: 95 instructions
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: Texture samplers: 7/16
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.16-21.10.18:737][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.16-21.10.56:096][751]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.16-21.11.01:071][ 47]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Liquid39AF8005480A9AAB2DEE878F6B59E450.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Textures/Blood/Liquid.uasset'
+[2019.11.16-21.11.05:135][289]LogSlate: Window 'Liquid' being destroyed
+[2019.11.16-21.11.05:140][289]LogSlate: Window 'Liquid' being destroyed
+[2019.11.16-21.11.05:635][289]LogCascade: Quitting Cascade. FXSystem=0x000001E96FB86BC0
+[2019.11.16-21.11.08:115][419]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.11.16-21.11.08:751][419]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside1CABA85346458847CE4BA3ACB5364B7E.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside.umap'
+[2019.11.16-21.11.09:386][419]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/SecondLevelOutside_BuiltData3EFDBEDE48C2443D3181D7B83F4F0FC7.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/SecondLevelOutside_BuiltData.uasset'
+[2019.11.16-21.11.19:621][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.16-21.11.21:466][985]LogSlate: Window 'Save Content' being destroyed
+[2019.11.16-21.11.21:536][985]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Blood_MF2FAB9174B56DDB965B5BD8F41BFF138.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/MaterialJ/Blood_M.uasset'
+[2019.11.16-21.11.21:676][985]LogSlate: Window 'GameEngineProjectTPS - Unreal Editor' being destroyed
+[2019.11.16-21.11.21:677][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.16-21.11.21:963][986]Cmd: QUIT_EDITOR
+[2019.11.16-21.11.22:163][986]LogExit: Preparing to exit.
+[2019.11.16-21.11.22:739][986]LogDirectoryWatcher: A directory notification failed for 'C:/Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/', and we were unable to create a new request.
+[2019.11.16-21.11.22:781][986]LogExit: Editor shut down
+[2019.11.16-21.11.22:782][986]LogExit: Transaction tracking system shut down
+[2019.11.16-21.11.23:127][986]LogExit: Object subsystem successfully closed.
+[2019.11.16-21.11.23:152][986]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.16-21.11.23:167][986]LogD3D11RHI: Shutdown
+[2019.11.16-21.11.23:167][986]LogD3D11RHI: CleanupD3DDevice
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.16-21.11.23:169][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.16-21.11.23:358][986]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module DistCurveEditor (656)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module Cascade (654)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module TextureEditor (652)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.11.16-21.11.23:379][986]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.11.16-21.11.23:380][986]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.11.16-21.11.23:381][986]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.11.16-21.11.23:382][986]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.11.16-21.11.23:605][986]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.11.16-21.11.23:606][986]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.11.16-21.11.23:651][986]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.11.16-21.11.23:657][986]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.16-21.11.23:658][986]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.11.16-21.11.23:664][986]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.11.16-21.11.23:696][986]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.11.16-21.11.23:697][986]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module GameEngineProjectTPS (296)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.16-21.11.23:698][986]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.16-21.11.23:799][986]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.16-21.11.23:899][986]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.16-21.11.23:899][986]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.16-21.11.23:901][986]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.16-21.11.23:901][986]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.16-21.11.23:901][986]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.16-21.11.23:901][986]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.16-21.11.23:902][986]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.16-21.11.23:903][986]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.16-21.11.23:904][986]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.16-21.11.23:906][986]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.16-21.11.23:907][986]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.16-21.11.23:952][986]LogDerivedDataCache: Shutdown
+[2019.11.16-21.11.23:952][986]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.16-21.11.23:952][986]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.16-21.11.23:952][986]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.16-21.11.23:953][986]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.16-21.11.23:959][986]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.16-21.11.23:959][986]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.16-21.11.23:959][986]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.16-21.11.23:959][986]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.16-21.11.23:959][986]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.16-21.11.23:963][986]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.16-21.11.23:963][986]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.16-21.11.23:965][986]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.16-21.11.23:965][986]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.16-21.11.23:994][986]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.16-21.11.23:995][986]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.16-21.11.23:996][986]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.16-21.11.23:996][986]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.16-21.11.23:997][986]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.16-21.11.23:997][986]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.16-21.11.24:024][986]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.16-21.11.24:024][986]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.11.16-21.11.24:024][986]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A2DAD4A-4764-4B27-E4C2-23B3D13EAD8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=338d4cdc4a49dfedf898afb7e10807f4%7C3e78faa684764497ba15c362f625de9d%7C02b4bbb0-dab0-4e7e-b0da-86c87c91e460&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.16-21.11.24:024][986]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A2DAD4A-4764-4B27-E4C2-23B3D13EAD8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=338d4cdc4a49dfedf898afb7e10807f4%7C3e78faa684764497ba15c362f625de9d%7C02b4bbb0-dab0-4e7e-b0da-86c87c91e460&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.16-21.11.24:024][986]LogHttp: Warning: 000001E98ACA42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.16-21.11.24:024][986]LogHttp: Warning: 000001E98ACA42C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e93c803f70 [can pipeline])
+[2019.11.16-21.11.24:024][986]LogHttp: Warning: 000001E98ACA42C0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2019.11.16-21.11.24:024][986]LogHttp: Warning: 000001E98ACA42C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.16-21.11.24:024][986]LogHttp: Warning: 000001E98ACA42C0: libcurl info message cache 3 (Closing connection 34)
+[2019.11.16-21.11.24:024][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.24:525][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.25:025][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.25:527][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.26:027][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.26:528][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.27:030][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.27:531][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.28:032][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.28:533][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.29:034][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.29:534][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.30:035][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.30:535][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.31:037][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.31:538][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.32:038][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.32:538][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.33:039][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.33:539][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.34:040][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.34:540][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.35:041][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.35:543][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.36:043][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.36:545][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.37:045][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.37:546][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.38:053][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.38:554][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.39:055][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.39:555][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.40:056][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.16-21.11.40:560][986]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
