@@ -1209,3 +1209,784 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.23-18.47.46:645][908]LogSlate: Took 0.009538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2019.11.23-18.48.24:315][247]LogRenderer: Reallocating scene render targets to support 964x564 Format 10 NumSamples 1 (Frame:1).
 [2019.11.23-18.54.21:061][369]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Phil/RangedMutant/AI/BT_RangedMutant.BT_RangedMutant
+[2019.11.23-18.56.14:089][607]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Phil/RangedMutant/AI/BTTask_FireProjectile.BTTask_FireProjectile
+[2019.11.23-18.57.04:741][446]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Phil/RangedMutant/AI/AIC_RangedMutant.AIC_RangedMutant
+[2019.11.23-18.58.38:062][545]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Julian/AI/BT_AIBoss.BT_AIBoss
+[2019.11.23-18.59.13:832][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Julian/AI/BTTask_Attack_New1.BTTask_Attack_New1
+[2019.11.23-18.59.57:144][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.11.23-18.59.57:154][175]LogMetaData: Removing '/Game/Julian/AI/BTTask_ProjectileAttack.BTTask_ProjectileAttack_C' ref from Metadata '/Game/Julian/AI/BTTask_Attack_New1.PackageMetaData'
+[2019.11.23-18.59.57:154][175]LogMetaData: Removing '/Game/Julian/AI/BTTask_ProjectileAttack.SKEL_BTTask_ProjectileAttack_C' ref from Metadata '/Game/Julian/AI/BTTask_Attack_New1.PackageMetaData'
+[2019.11.23-18.59.57:201][175]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttackB0D284AD4710FC9FFAC002AC51866EB8.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BTTask_ProjectileAttack.uasset'
+[2019.11.23-18.59.57:391][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.11.23-18.59.57:436][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.23-18.59.57:477][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.23-18.59.57:514][175]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BT_AIBoss09226AF94C3B7488C60A70BB86658AB0.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BT_AIBoss.uasset'
+[2019.11.23-18.59.57:753][179]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Julian/AI/BTTask_ProjectileAttack.
+[2019.11.23-19.20.50:678][582]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Receive Execute AI  and was replaced as a Custom Event!
+[2019.11.23-19.21.42:168][444]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-19.21.42:431][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.11.23-19.22.16:204][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-19.22.16:263][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-19.22.16:271][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-19.22.16:271][352]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 9:22:16 AM)
+[2019.11.23-19.22.16:272][352]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-19.22.16:278][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006181s)
+[2019.11.23-19.22.16:279][352]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-19.22.16:279][352]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2019.11.23-19.22.16:279][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.007800s)
+[2019.11.23-19.22.16:335][352]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.11.23-19.22.16:341][352]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-19.22.16:376][352]LogInit: FAudioDevice initialized.
+[2019.11.23-19.22.16:406][352]LogLoad: Game class is 'FPS_C'
+[2019.11.23-19.22.16:408][352]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2019.11.23-14.22.16
+[2019.11.23-19.22.16:410][352]LogWorld: Bringing up level for play took: 0.003428
+[2019.11.23-19.22.16:428][352]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.943
+[2019.11.23-19.22.16:429][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-19.22.29:548][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-19.22.29:555][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-19.22.29:595][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-19.22.29:595][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-19.22.29:653][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-19.22.29:673][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.23-19.22.29:746][107]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.11.23-19.22.35:679][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-19.26.14:920][364]LogSlate: Took 0.006186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.23-19.27.41:028][431]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.27.41:334][431]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2019.11.23-19.30.27:968][262]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.30.28:469][262]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.30.29:210][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.31.32:527][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.31.33:026][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.31.33:533][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.32.08:830][902]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.32.09:329][902]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.32.12:495][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.32.35:883][352]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.32.36:383][352]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.38.22:985][742]LogEditorTransaction: Undo Create Pin Link
+[2019.11.23-19.38.23:014][742]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-19.38.23:046][742]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-19.38.26:531][919]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.23-19.38.32:270][211]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.23-19.38.38:843][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.23-19.38.50:738][242]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.38.50:749][242]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "Scene" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get Scene
+[2019.11.23-19.38.50:750][242]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Set ShotCooldown
+[2019.11.23-19.38.50:750][242]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get ShotCooldown
+[2019.11.23-19.38.50:752][242]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.38.50:752][242]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.38.50:753][242]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Scene  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.38.51:060][242]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.11.23-19.38.51:082][242]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [9615.21] Compile of BP_Boss_Dest failed. 3 Fatal Issue(s) 3 Warning(s) [in 343 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.40.01:996][440]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.40.02:005][440]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "Scene" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get Scene
+[2019.11.23-19.40.02:005][440]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Set ShotCooldown
+[2019.11.23-19.40.02:005][440]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get ShotCooldown
+[2019.11.23-19.40.02:008][440]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.40.02:008][440]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.40.02:008][440]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Scene  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.40.02:347][440]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2019.11.23-19.40.02:379][440]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [9686.51] Compile of BP_Boss_Dest failed. 3 Fatal Issue(s) 3 Warning(s) [in 382 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.40.39:317][608]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.40.39:324][608]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "Scene" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get Scene
+[2019.11.23-19.40.39:325][608]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Set ShotCooldown
+[2019.11.23-19.40.39:327][608]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.40.39:327][608]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Scene  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.40.39:596][608]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2019.11.23-19.40.39:624][608]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [9723.75] Compile of BP_Boss_Dest failed. 2 Fatal Issue(s) 2 Warning(s) [in 307 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.42.15:031][210]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.42.15:038][210]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "Scene" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get Scene
+[2019.11.23-19.42.15:040][210]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Scene  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.42.15:334][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.11.23-19.42.15:353][210]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [9819.48] Compile of BP_Boss_Dest failed. 1 Fatal Issue(s) 1 Warning(s) [in 322 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.47.50:284][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-19.47.50:377][575]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.47.50:674][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.23-19.47.54:468][716]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_DestD33BC2BF42143FB47ECA7C8F38503401.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-19.48.42:731][663]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.48.43:030][663]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2019.11.23-19.48.44:040][689]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest2CD240EB4ECB179EEE35ABB3A747F2F5.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-19.48.47:824][871]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.48.48:074][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.23-19.48.50:312][979]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest0372C54645B6692010A07F9D41BB87E0.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-19.50.44:822][571]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-19.50.50:687][858]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.11.23-19.50.50:961][858]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel_Auto4C8B3E67145BE37BCFC399E8E28C82A51.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Maps/BossLevel_Auto4.umap'
+[2019.11.23-19.50.50:965][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/BossLevel' took 0.343
+[2019.11.23-19.50.50:965][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.343
+[2019.11.23-19.50.50:968][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Phil/RangedMutant/BP_RangedMutant] ([1] browsable assets)...
+[2019.11.23-19.50.51:050][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Phil/RangedMutant/BP_RangedMutant.BP_RangedMutant]
+[2019.11.23-19.50.51:050][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Phil/RangedMutant/BP_RangedMutant]
+[2019.11.23-19.50.51:104][858]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_RangedMutant_Auto4E72EF23C43E358D38D6D809DD8096E00.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Phil/RangedMutant/BP_RangedMutant_Auto4.uasset'
+[2019.11.23-19.50.51:105][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/AI/BP_Boss_Dest] ([1] browsable assets)...
+[2019.11.23-19.50.51:184][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest]
+[2019.11.23-19.50.51:184][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/AI/BP_Boss_Dest]
+[2019.11.23-19.50.51:246][858]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest_Auto43F3ACC724CE1C5B7E4DAED8498E88D79.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/AI/BP_Boss_Dest_Auto4.uasset'
+[2019.11.23-19.50.51:250][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Julian/AI/BTTask_ProjectileAttack] ([1] browsable assets)...
+[2019.11.23-19.50.51:250][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/AI/BTTask_ProjectileAttack]
+[2019.11.23-19.50.51:281][858]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttack_Auto48F9658924AAF11E5F96B7CBBCCC71D4C.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/AI/BTTask_ProjectileAttack_Auto4.uasset'
+[2019.11.23-19.50.51:283][858]LogFileHelpers: Auto-saving content packages took 0.315
+[2019.11.23-19.51.32:387][247]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.51.32:395][247]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Set ShotCooldown
+[2019.11.23-19.51.32:395][247]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get ShotCooldown
+[2019.11.23-19.51.32:401][247]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-19.51.32:401][247]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2019.11.23-19.51.32:401][247]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-19.51.32:402][247]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.51.32:402][247]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.51.32:404][247]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] Variable node  Get Mesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.23-19.51.32:404][247]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.23-19.51.32:412][247]LogBlueprint: Warning: [Compiler BTTask_ProjectileAttack] [0376.54] Compile of BTTask_ProjectileAttack failed. 5 Fatal Issue(s) 0 Warning(s) [in 24 ms] (/Game/Julian/AI/BTTask_ProjectileAttack.BTTask_ProjectileAttack)
+[2019.11.23-19.51.32:701][247]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.11.23-19.51.32:729][247]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [0376.86] Compile of BP_Boss_Dest failed. 2 Fatal Issue(s) 2 Warning(s) [in 341 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.52.23:508][151]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.52.23:514][151]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get ShotCooldown
+[2019.11.23-19.52.23:517][151]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.52.23:776][151]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.11.23-19.52.23:812][151]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [0427.94] Compile of BP_Boss_Dest failed. 1 Fatal Issue(s) 1 Warning(s) [in 303 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.53.01:415][263]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.53.01:420][263]LogBlueprint: Warning: [Compiler BP_Boss_Dest] Could not find a variable named "ShotCooldown" in 'BP_Boss_Dest_C'.
+Make sure 'BP_Boss_Dest_C' has been compiled for  Get ShotCooldown
+[2019.11.23-19.53.01:423][263]LogBlueprint: Error: [Compiler BP_Boss_Dest] The property associated with  Shot Cooldown  could not be found in '/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest_C'
+[2019.11.23-19.53.01:701][263]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.11.23-19.53.01:735][263]LogBlueprint: Warning: [Compiler BP_Boss_Dest] [0465.86] Compile of BP_Boss_Dest failed. 1 Fatal Issue(s) 1 Warning(s) [in 320 ms] (/Game/Julian/AI/BP_Boss_Dest.BP_Boss_Dest)
+[2019.11.23-19.53.40:394][471]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-19.53.40:678][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.11.23-19.53.42:159][538]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest6C058B8D4EFB5193996AF88C1359B225.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-20.00.51:529][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.11.23-20.00.51:814][867]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel_Auto53E5E8C884023CC34E49072B62B6822A7.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Maps/BossLevel_Auto5.umap'
+[2019.11.23-20.00.51:818][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/BossLevel' took 0.359
+[2019.11.23-20.00.51:818][867]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.359
+[2019.11.23-20.00.51:820][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Julian/AI/BTTask_ProjectileAttack] ([1] browsable assets)...
+[2019.11.23-20.00.51:820][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/AI/BTTask_ProjectileAttack]
+[2019.11.23-20.00.51:856][867]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttack_Auto5E485B8004C73F9525C654FB870CA3DBF.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/AI/BTTask_ProjectileAttack_Auto5.uasset'
+[2019.11.23-20.00.51:857][867]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.11.23-20.02.16:653][877]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.02.16:656][877]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-20.02.16:656][877]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-20.02.16:657][877]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.23-20.02.16:943][877]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.11.23-20.02.16:955][877]LogBlueprint: Warning: [Compiler BTTask_ProjectileAttack] [1021.08] Compile of BTTask_ProjectileAttack failed. 3 Fatal Issue(s) 0 Warning(s) [in 302 ms] (/Game/Julian/AI/BTTask_ProjectileAttack.BTTask_ProjectileAttack)
+[2019.11.23-20.03.00:653][414]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-20.03.35:936][242]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-20.03.36:241][242]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.11.23-20.03.37:676][303]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_DestFFC446C543B558F774E5DDB429804451.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-20.05.45:010][692]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.05.45:013][692]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-20.05.45:014][692]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.23-20.05.45:280][692]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.11.23-20.05.45:290][692]LogBlueprint: Warning: [Compiler BTTask_ProjectileAttack] [1229.42] Compile of BTTask_ProjectileAttack failed. 2 Fatal Issue(s) 0 Warning(s) [in 279 ms] (/Game/Julian/AI/BTTask_ProjectileAttack.BTTask_ProjectileAttack)
+[2019.11.23-20.08.39:098][618]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-20.08.39:394][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2019.11.23-20.08.40:851][683]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest814F37094217704CE06397859DF9BFC3.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-20.08.48:491][116]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.08.48:494][116]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] This blueprint (self) is not a BP_RangedMutant_C, therefore ' Target ' must have a connection.
+[2019.11.23-20.08.48:494][116]LogBlueprint: Error: [Compiler BTTask_ProjectileAttack] Variable node  Get CanShoot  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.23-20.08.48:776][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.11.23-20.08.48:786][116]LogBlueprint: Warning: [Compiler BTTask_ProjectileAttack] [1412.92] Compile of BTTask_ProjectileAttack failed. 2 Fatal Issue(s) 0 Warning(s) [in 294 ms] (/Game/Julian/AI/BTTask_ProjectileAttack.BTTask_ProjectileAttack)
+[2019.11.23-20.11.08:338][ 98]LogEditorTransaction: Undo Create Pin Link
+[2019.11.23-20.11.08:359][ 98]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.08:387][ 98]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.11:327][233]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.23-20.11.16:957][515]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.23-20.11.22:704][810]LogEditorTransaction: Undo Delete current selection
+[2019.11.23-20.11.22:723][810]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.22:904][815]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.23:736][852]LogEditorTransaction: Undo Move Node
+[2019.11.23-20.11.23:755][852]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.23:846][853]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.24:875][907]LogEditorTransaction: Undo Delete current selection
+[2019.11.23-20.11.24:895][907]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.24:931][907]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.25:807][951]LogEditorTransaction: Undo Create Pin Link
+[2019.11.23-20.11.25:817][951]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.25:948][955]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.27:032][ 11]LogEditorTransaction: Undo Move Node
+[2019.11.23-20.11.27:050][ 11]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.27:089][ 11]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.28:085][ 61]LogEditorTransaction: Undo Promote To Variable
+[2019.11.23-20.11.28:104][ 61]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.11.28:143][ 61]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.11.31:177][215]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.23-20.11.36:382][470]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.23-20.11.42:864][793]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.23-20.11.42:864][793]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2019.11.23-20.11.42:864][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.11.23-20.11.42:864][793]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.23-20.11.42:865][793]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.23-20.11.42:865][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.23-20.13.37:776][385]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.13.38:093][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.11.23-20.13.39:951][480]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttack24E58516403FB6BCC9E433BFD4B6F12B.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BTTask_ProjectileAttack.uasset'
+[2019.11.23-20.13.44:204][727]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.13.44:275][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.13.44:282][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.13.44:282][727]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:13:44 AM)
+[2019.11.23-20.13.44:283][727]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.13.44:294][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010030s)
+[2019.11.23-20.13.44:294][727]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.13.44:295][727]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2019.11.23-20.13.44:295][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.011792s)
+[2019.11.23-20.13.44:357][727]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.11.23-20.13.44:363][727]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.13.44:403][727]LogInit: FAudioDevice initialized.
+[2019.11.23-20.13.44:443][727]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.13.44:446][727]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2019.11.23-15.13.44
+[2019.11.23-20.13.44:448][727]LogWorld: Bringing up level for play took: 0.003671
+[2019.11.23-20.13.44:467][727]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.98
+[2019.11.23-20.13.44:467][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.13.55:380][352]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.13.59:742][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.01:814][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.02:967][784]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-6.11 Y=-33.58 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2019.11.23-20.14.04:189][850]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.08:376][ 87]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.11:932][291]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.14:397][434]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.16:508][557]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.14.16:839][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.14.16:846][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.14.16:888][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.14.16:888][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.14.16:937][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.14.16:952][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.11.23-20.14.17:056][577]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.11.23-20.14.20:958][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.18.24:465][506]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.18.24:787][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.23-20.18.25:433][529]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttack213C11134451507D2C052B9A3D8EFB10.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BTTask_ProjectileAttack.uasset'
+[2019.11.23-20.18.29:447][765]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.18.29:501][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.18.29:506][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.18.29:506][765]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:18:29 AM)
+[2019.11.23-20.18.29:507][765]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.18.29:512][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2019.11.23-20.18.29:513][765]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.18.29:513][765]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.11.23-20.18.29:513][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.005873s)
+[2019.11.23-20.18.29:559][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.23-20.18.29:563][765]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.18.29:589][765]LogInit: FAudioDevice initialized.
+[2019.11.23-20.18.29:627][765]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.18.29:631][765]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2019.11.23-15.18.29
+[2019.11.23-20.18.29:635][765]LogWorld: Bringing up level for play took: 0.006346
+[2019.11.23-20.18.29:659][765]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.173
+[2019.11.23-20.18.29:659][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.18.43:767][577]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.18.44:290][607]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-33.22 Y=7.85 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2019.11.23-20.18.45:299][666]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.18.46:303][725]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.18.47:306][783]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.18.48:315][842]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.18.49:325][901]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (56 other events since notify)
+[2019.11.23-20.18.50:328][959]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.18.51:338][ 17]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.18.52:786][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.18.57:192][353]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.18.59:252][471]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.19.01:835][620]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.19.04:432][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.19.05:547][833]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-24.88 Y=26.19 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (15 other events since notify)
+[2019.11.23-20.19.06:548][891]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.19.07:551][950]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.19.08:566][ 10]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (59 other events since notify)
+[2019.11.23-20.19.09:574][ 69]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.19.10:584][127]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (55 other events since notify)
+[2019.11.23-20.19.11:599][186]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.19.12:612][245]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.19.13:617][302]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (56 other events since notify)
+[2019.11.23-20.19.14:617][360]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.19.15:623][417]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-413.26 Y=434.99 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_1 Component:CollisionCylinder BoneName:None (54 other events since notify)
+[2019.11.23-20.19.17:246][510]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.19.17:998][553]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-35.91 Y=8.49 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (23 other events since notify)
+[2019.11.23-20.19.18:999][610]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (56 other events since notify)
+[2019.11.23-20.19.20:000][668]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.19.21:012][726]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.19.22:024][786]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (59 other events since notify)
+[2019.11.23-20.19.23:041][843]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (54 other events since notify)
+[2019.11.23-20.19.24:057][902]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (58 other events since notify)
+[2019.11.23-20.19.25:068][960]LogCharacterMovement: BP_Boss_Dest_2 is stuck and failed to move! Velocity: X=-583.91 Y=138.01 Z=0.00 Location: X=1483.13 Y=21.87 Z=110.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Boss_Dest_C_2 Component:CollisionCylinder BoneName:None (57 other events since notify)
+[2019.11.23-20.19.26:833][ 63]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1483.126 Y=21.866 Z=110.150] for [BP_Boss_Dest_C]
+[2019.11.23-20.19.42:111][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.19.42:118][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.19.42:164][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.19.42:165][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.19.42:212][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.19.42:231][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.23-20.19.42:332][950]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.11.23-20.19.50:750][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.20.30:628][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.23-20.20.46:767][184]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-20.20.47:079][184]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.11.23-20.20.48:797][254]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest496CB7A34EBC5B99104E7EA707B851F1.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-20.20.53:843][531]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.20.53:901][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.20.53:906][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.20.53:906][531]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:20:53 AM)
+[2019.11.23-20.20.53:906][531]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.20.53:911][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004281s)
+[2019.11.23-20.20.53:911][531]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.20.53:912][531]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2019.11.23-20.20.53:912][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.005220s)
+[2019.11.23-20.20.53:967][531]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.23-20.20.53:971][531]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.20.54:000][531]LogInit: FAudioDevice initialized.
+[2019.11.23-20.20.54:032][531]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.20.54:034][531]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2019.11.23-15.20.54
+[2019.11.23-20.20.54:035][531]LogWorld: Bringing up level for play took: 0.002300
+[2019.11.23-20.20.54:050][531]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.564
+[2019.11.23-20.20.54:051][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.22.22:992][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.22.22:999][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.22.23:039][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.22.23:039][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.22.23:091][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.22.23:103][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.23-20.22.23:182][623]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.11.23-20.22.38:572][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.23.32:184][460]BlueprintLog: New page: Compile BTTask_ProjectileAttack
+[2019.11.23-20.23.32:490][460]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2019.11.23-20.23.33:262][494]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BTTask_ProjectileAttackA62F48914DF346F8A47491972EC710CF.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BTTask_ProjectileAttack.uasset'
+[2019.11.23-20.23.39:022][832]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.23.39:094][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.23.39:099][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.23.39:099][832]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:23:39 AM)
+[2019.11.23-20.23.39:100][832]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.23.39:109][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009079s)
+[2019.11.23-20.23.39:110][832]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.23.39:110][832]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.11.23-20.23.39:110][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.010312s)
+[2019.11.23-20.23.39:165][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.11.23-20.23.39:170][832]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.23.39:201][832]LogInit: FAudioDevice initialized.
+[2019.11.23-20.23.39:228][832]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.23.39:229][832]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2019.11.23-15.23.39
+[2019.11.23-20.23.39:232][832]LogWorld: Bringing up level for play took: 0.003203
+[2019.11.23-20.23.39:248][832]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel -0.238
+[2019.11.23-20.23.39:249][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.24.35:503][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.24.35:511][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.24.35:553][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.24.35:553][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.24.35:602][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.24.35:615][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.11.23-20.24.35:693][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.11.23-20.24.36:794][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.24.36:952][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.23-20.24.37:192][137]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel3254B6F949F242D13D6EDDBF6C5EDCCA.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/BossLevel.umap'
+[2019.11.23-20.24.37:324][137]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel_BuiltData09DD6CDE4894C7D34C6B2DBD997D3EA3.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/BossLevel_BuiltData.uasset'
+[2019.11.23-20.30.36:660][ 16]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.30.48:849][ 83]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.30.55:722][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.31.08:377][191]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.31.12:548][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.31.18:373][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.31.33:128][347]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.31.42:016][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.00:704][487]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.05:470][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.09:156][561]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.18:693][616]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.29:283][675]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.35:155][719]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.41:923][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.32.59:432][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.06:817][895]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.11:566][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.16:370][972]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.24:333][ 53]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.26:989][ 87]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.32:773][131]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.35:423][160]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.44:393][212]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.49:145][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.54:955][298]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.33.59:702][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.01:239][367]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.03:889][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.08:644][437]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.17:594][494]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.29:667][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.43:389][651]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.46:021][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.34.56:613][742]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.09:300][811]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.17:144][857]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.24:110][902]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.36:767][974]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.47:785][ 33]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.35.55:753][ 89]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.08:423][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.23:204][222]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.23:707][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.27:390][254]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.31:125][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.33:733][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.34:237][317]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.46:875][377]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.55:820][428]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.36.58:468][461]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.12:751][535]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.19:080][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.27:000][632]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.39:162][701]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.39:666][702]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.44:514][741]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.51:867][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.52:371][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.37.54:998][815]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.02:332][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.08:159][908]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.08:663][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.11:314][939]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.16:530][976]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.22:404][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.27:160][ 57]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.38:768][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.41:395][147]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.38.44:532][180]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.39.01:956][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.06:689][565]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.10:298][598]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.14:501][631]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.25:044][688]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.34:534][739]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.42:440][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.40.50:379][846]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.01:973][905]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.05:126][937]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.09:924][974]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.16:240][ 21]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.16:744][ 22]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.20:454][ 59]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.41:047][156]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.41.45:800][196]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.00:624][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.03:232][298]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.19:687][378]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.25:550][419]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.29:250][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.48:891][543]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.42.58:796][599]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.43.00:364][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.23-20.46.04:628][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.46.04:695][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.46.04:700][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.46.04:700][616]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:46:04 AM)
+[2019.11.23-20.46.04:701][616]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.46.04:709][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008371s)
+[2019.11.23-20.46.04:710][616]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.46.04:711][616]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2019.11.23-20.46.04:711][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.009808s)
+[2019.11.23-20.46.04:781][616]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2019.11.23-20.46.04:788][616]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.46.04:822][616]LogInit: FAudioDevice initialized.
+[2019.11.23-20.46.04:854][616]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.46.04:856][616]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-15.46.04
+[2019.11.23-20.46.04:857][616]LogWorld: Bringing up level for play took: 0.002583
+[2019.11.23-20.46.04:873][616]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel -0.613
+[2019.11.23-20.46.04:873][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.46.56:022][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.46.56:028][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.46.56:069][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.46.56:069][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.46.56:119][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.46.56:128][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.11.23-20.46.56:211][572]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.11.23-20.46.58:642][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.47.40:667][423]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.47.40:719][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.47.40:724][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.47.40:724][423]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:47:40 AM)
+[2019.11.23-20.47.40:725][423]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.47.40:729][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004191s)
+[2019.11.23-20.47.40:729][423]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.47.40:730][423]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2019.11.23-20.47.40:730][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.005075s)
+[2019.11.23-20.47.40:781][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.23-20.47.40:785][423]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.47.40:813][423]LogInit: FAudioDevice initialized.
+[2019.11.23-20.47.40:847][423]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.47.40:848][423]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-15.47.40
+[2019.11.23-20.47.40:849][423]LogWorld: Bringing up level for play took: 0.002166
+[2019.11.23-20.47.40:865][423]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel -0.621
+[2019.11.23-20.47.40:865][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.48.25:806][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.48.25:813][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.48.25:857][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.48.25:857][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.48.25:904][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.48.25:916][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.23-20.48.25:992][150]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.11.23-20.48.39:720][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.48.48:782][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.48.48:863][173]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-20.48.49:173][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.11.23-20.48.50:560][214]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest9D5299C34CBB4E9731D05AA6E3BD2861.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-20.48.54:423][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.48.54:485][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.48.54:494][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.48.54:494][411]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:48:54 AM)
+[2019.11.23-20.48.54:495][411]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.48.54:499][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004529s)
+[2019.11.23-20.48.54:500][411]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.48.54:500][411]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2019.11.23-20.48.54:500][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.005808s)
+[2019.11.23-20.48.54:555][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.11.23-20.48.54:559][411]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.48.54:589][411]LogInit: FAudioDevice initialized.
+[2019.11.23-20.48.54:616][411]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.48.54:617][411]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-15.48.54
+[2019.11.23-20.48.54:619][411]LogWorld: Bringing up level for play took: 0.002782
+[2019.11.23-20.48.54:636][411]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 1.15
+[2019.11.23-20.48.54:636][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.49.33:339][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.49.33:346][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.49.33:404][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.49.33:405][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.49.33:497][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.49.33:503][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.23-20.49.33:581][697]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.11.23-20.49.41:991][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.50.19:023][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.11.23-20.50.19:259][921]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel_Auto6260FBADC46E97015ED06578080CB0886.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Maps/BossLevel_Auto6.umap'
+[2019.11.23-20.50.19:263][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/Maps/BossLevel' took 0.286
+[2019.11.23-20.50.19:263][921]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.286
+[2019.11.23-20.52.44:344][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.53.00:699][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.53.05:393][287]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.23-20.53.51:088][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.54.13:198][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.54.23:559][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.54.42:212][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.54.44:498][403]Cmd: DUPLICATE
+[2019.11.23-20.54.44:498][403]Cmd: ACTOR DUPLICATE
+[2019.11.23-20.54.59:343][446]Cmd: DUPLICATE
+[2019.11.23-20.54.59:343][446]Cmd: ACTOR DUPLICATE
+[2019.11.23-20.55.01:223][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.55.06:331][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.55.45:274][702]Cmd: DUPLICATE
+[2019.11.23-20.55.45:274][702]Cmd: ACTOR DUPLICATE
+[2019.11.23-20.56.24:526][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.56.25:919][474]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.56.25:978][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.56.25:983][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.56.25:984][474]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:56:25 AM)
+[2019.11.23-20.56.25:984][474]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.56.25:994][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009095s)
+[2019.11.23-20.56.25:994][474]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.56.25:994][474]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.11.23-20.56.25:995][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.010153s)
+[2019.11.23-20.56.26:048][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.23-20.56.26:052][474]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.56.26:078][474]LogInit: FAudioDevice initialized.
+[2019.11.23-20.56.26:079][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.56.26:119][474]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.56.26:124][474]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-15.56.26
+[2019.11.23-20.56.26:129][474]LogWorld: Bringing up level for play took: 0.008311
+[2019.11.23-20.56.26:152][474]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.666
+[2019.11.23-20.56.26:152][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.57.41:782][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.57.41:789][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.57.41:832][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.57.41:832][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.57.41:881][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.57.41:890][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.11.23-20.57.41:967][843]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.11.23-20.57.43:738][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-20.57.43:900][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.23-20.57.44:260][961]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevelA24293CD460867F5F9A858891F1D6782.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/BossLevel.umap'
+[2019.11.23-20.57.44:362][961]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BossLevel_BuiltDataCF637C84484E6BB2CD2AF485E8EFBB14.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Maps/BossLevel_BuiltData.uasset'
+[2019.11.23-20.57.48:576][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.58.12:574][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.58.13:907][149]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-20.58.13:961][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.58.13:965][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-20.58.13:965][149]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 10:58:13 AM)
+[2019.11.23-20.58.13:966][149]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-20.58.13:975][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008495s)
+[2019.11.23-20.58.13:975][149]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-20.58.13:975][149]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.11.23-20.58.13:976][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.009234s)
+[2019.11.23-20.58.14:025][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.11.23-20.58.14:029][149]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-20.58.14:055][149]LogInit: FAudioDevice initialized.
+[2019.11.23-20.58.14:055][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.58.14:084][149]LogLoad: Game class is 'FPS_C'
+[2019.11.23-20.58.14:085][149]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-15.58.14
+[2019.11.23-20.58.14:086][149]LogWorld: Bringing up level for play took: 0.002064
+[2019.11.23-20.58.14:101][149]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.615
+[2019.11.23-20.58.14:101][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.59.08:320][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.59.08:327][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.59.08:367][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-20.59.08:367][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-20.59.08:413][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-20.59.08:425][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.23-20.59.08:498][333]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.11.23-20.59.14:113][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.59.26:528][892]LogSlate: Window 'Message' being destroyed
+[2019.11.23-20.59.28:718][892]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.59.28:814][892]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.23-20.59.28:815][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-20.59.28:852][892]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.59.28:914][892]LogMaterial: Display: Missing cached shader map for material Landscape_M, compiling. 
+[2019.11.23-20.59.29:029][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.11.23-20.59.29:047][892]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.23-20.59.34:148][892]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.23-20.59.34:148][892]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.23-20.59.34:148][892]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.23-20.59.34:153][892]TextureStreamingBuild: Display: Compiling optional shaders took 5.123 seconds.
+[2019.11.23-20.59.34:264][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.23-20.59.36:426][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.00.00:231][207]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.23-21.02.54:107][872]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-21.02.54:440][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.23-21.02.55:356][902]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_Dest567C68CB41606426BE823D9516BE0876.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-21.02.56:190][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.02.57:557][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.02.59:057][137]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-21.02.59:118][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.02.59:120][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-21.02.59:121][137]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 11:02:59 AM)
+[2019.11.23-21.02.59:121][137]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-21.02.59:129][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007740s)
+[2019.11.23-21.02.59:129][137]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-21.02.59:129][137]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.11.23-21.02.59:129][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.008492s)
+[2019.11.23-21.02.59:173][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.23-21.02.59:177][137]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-21.02.59:202][137]LogInit: FAudioDevice initialized.
+[2019.11.23-21.02.59:202][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.02.59:233][137]LogLoad: Game class is 'FPS_C'
+[2019.11.23-21.02.59:238][137]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-16.02.59
+[2019.11.23-21.02.59:242][137]LogWorld: Bringing up level for play took: 0.007428
+[2019.11.23-21.02.59:267][137]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel -0.219
+[2019.11.23-21.02.59:267][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.04.29:333][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.04.29:339][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.04.29:389][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-21.04.29:389][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.04.29:447][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.04.29:454][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.11.23-21.04.29:564][418]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.11.23-21.04.32:955][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.04.52:204][729]BlueprintLog: New page: Compile BP_Boss_Dest
+[2019.11.23-21.04.52:519][729]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.23-21.04.53:535][767]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_DestA8BE9B624EB1F2401D5E30ADCCDEA5C9.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/BP_Boss_Dest.uasset'
+[2019.11.23-21.05.04:933][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.05.06:658][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.05.07:851][667]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-21.05.07:906][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.05.07:909][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-21.05.07:909][667]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 11:05:07 AM)
+[2019.11.23-21.05.07:909][667]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-21.05.07:918][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008764s)
+[2019.11.23-21.05.07:918][667]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-21.05.07:918][667]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.11.23-21.05.07:919][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.009576s)
+[2019.11.23-21.05.07:962][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.11.23-21.05.07:966][667]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-21.05.07:993][667]LogInit: FAudioDevice initialized.
+[2019.11.23-21.05.07:993][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.05.08:022][667]LogLoad: Game class is 'FPS_C'
+[2019.11.23-21.05.08:027][667]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-16.05.08
+[2019.11.23-21.05.08:031][667]LogWorld: Bringing up level for play took: 0.006800
+[2019.11.23-21.05.08:050][667]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.563
+[2019.11.23-21.05.08:050][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.08.27:894][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.08.27:898][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.08.27:945][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-21.08.27:945][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.08.27:993][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.08.28:001][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.11.23-21.08.28:081][577]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.11.23-21.08.32:383][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.12.57:662][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.12.58:066][152]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Julian/AI/BTTask_FindSearchPoint.BTTask_FindSearchPoint
+[2019.11.23-21.14.27:724][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.14.31:346][817]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Phil/Player/BP_Player.BP_Player
+[2019.11.23-21.16.14:312][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.16.32:642][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Julian/AI/AI_ControlBoss.AI_ControlBoss
+[2019.11.23-21.18.03:419][185]BlueprintLog: New page: Compile AI_ControlBoss
+[2019.11.23-21.18.03:694][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.11.23-21.18.05:337][265]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/AI_ControlBossF9853FCE4706A8FFDBEF8198BB7B486B.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/AI_ControlBoss.uasset'
+[2019.11.23-21.18.06:442][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.18.07:895][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.18.08:912][520]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-21.18.08:976][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.18.08:979][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-21.18.08:979][520]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 11:18:08 AM)
+[2019.11.23-21.18.08:981][520]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-21.18.08:989][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008095s)
+[2019.11.23-21.18.08:989][520]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-21.18.08:990][520]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.11.23-21.18.08:990][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.008929s)
+[2019.11.23-21.18.09:035][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.23-21.18.09:039][520]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-21.18.09:066][520]LogInit: FAudioDevice initialized.
+[2019.11.23-21.18.09:066][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.18.09:094][520]LogLoad: Game class is 'FPS_C'
+[2019.11.23-21.18.09:095][520]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-16.18.09
+[2019.11.23-21.18.09:097][520]LogWorld: Bringing up level for play took: 0.003121
+[2019.11.23-21.18.09:112][520]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel -0.374
+[2019.11.23-21.18.09:113][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.18.51:608][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.18.51:613][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.18.51:666][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-21.18.51:666][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.18.51:714][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.18.51:721][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.11.23-21.18.51:793][168]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.11.23-21.18.56:538][397]Cmd: TRANSACTION UNDO
+[2019.11.23-21.18.56:538][397]LogEditorTransaction: Undo Delete current selection
+[2019.11.23-21.18.59:681][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.19.15:055][510]BlueprintLog: New page: Compile AI_ControlBoss
+[2019.11.23-21.19.15:314][510]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.11.23-21.19.16:043][533]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/AI_ControlBoss6747DB90427F6B19230E77B7ABDACEEA.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/AI/AI_ControlBoss.uasset'
+[2019.11.23-21.19.17:150][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.23-21.19.18:822][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.19.19:977][806]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.23-21.19.20:027][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.19.20:029][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.23-21.19.20:029][806]PIE: New page: PIE session: BossLevel (Nov 23, 2019, 11:19:20 AM)
+[2019.11.23-21.19.20:030][806]LogPlayLevel: Creating play world package: /Game/Julian/Maps/UEDPIE_0_BossLevel
+[2019.11.23-21.19.20:038][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008744s)
+[2019.11.23-21.19.20:039][806]LogAIModule: Creating AISystem for world BossLevel
+[2019.11.23-21.19.20:039][806]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.11.23-21.19.20:039][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/Maps/BossLevel.BossLevel to /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel (0.009485s)
+[2019.11.23-21.19.20:084][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.23-21.19.20:088][806]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.23-21.19.20:113][806]LogInit: FAudioDevice initialized.
+[2019.11.23-21.19.20:114][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.23-21.19.20:146][806]LogLoad: Game class is 'FPS_C'
+[2019.11.23-21.19.20:150][806]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 0) at 2019.11.23-16.19.20
+[2019.11.23-21.19.20:157][806]LogWorld: Bringing up level for play took: 0.009020
+[2019.11.23-21.19.20:176][806]PIE: Play in editor start time for /Game/Julian/Maps/UEDPIE_0_BossLevel 0.69
+[2019.11.23-21.19.20:176][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.19.50:803][595]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=454.986 Y=1048.990 Z=134.635] for [BP_RangedMutantProjectile_C]
+[2019.11.23-21.20.15:633][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.20.15:638][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.20.15:686][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.23-21.20.15:686][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel' with GeneratedClass '/Game/Julian/Maps/BossLevel.BossLevel_C' with ClassGeneratedBy '/Game/Julian/Maps/BossLevel.BossLevel:PersistentLevel.BossLevel'
+[2019.11.23-21.20.15:730][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.23-21.20.15:740][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.11.23-21.20.15:815][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_56
