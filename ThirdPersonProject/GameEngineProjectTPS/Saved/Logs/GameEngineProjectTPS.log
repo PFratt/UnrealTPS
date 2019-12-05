@@ -945,3 +945,373 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-15.46.38:792][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.05-15.46.38:825][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2019.12.05-15.46.38:992][640]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapB21C15214A0DE5E2CBAF26B066E3DAF8.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.47.39:706][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-15.47.39:806][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-15.47.39:839][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.39:839][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-15.47.39:839][ 31]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 5:47:39 AM)
+[2019.12.05-15.47.39:839][ 31]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-15.47.39:851][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011517s)
+[2019.12.05-15.47.39:852][ 31]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-15.47.39:852][ 31]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2019.12.05-15.47.39:852][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012343s)
+[2019.12.05-15.47.39:883][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.05-15.47.39:891][ 31]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-15.47.39:905][ 31]LogInit: FAudioDevice initialized.
+[2019.12.05-15.47.39:933][ 31]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.47.39:935][ 31]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-10.47.39
+[2019.12.05-15.47.39:936][ 31]LogWorld: Bringing up level for play took: 0.002514
+[2019.12.05-15.47.39:950][ 31]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.408
+[2019.12.05-15.47.39:950][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.39:951][ 31]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.47.40:825][ 83]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_RangedMutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.47.45:971][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.45:971][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.47.46:000][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-15.47.46:000][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.46:041][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.47.46:045][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.05-15.47.46:069][392]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.05-15.47.46:515][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.47.46:547][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.05-15.47.46:726][418]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap207CDD2F4F8DAF610EC9A391282DCCEE.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.47.48:949][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.05-15.47.49:445][575]LogEditorViewport: Clicking on Actor (LMB): BP_LoadLevel_C (TriggerBox_Blueprint)
+[2019.12.05-15.47.51:291][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-15.47.57:083][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.05-15.47.57:256][ 29]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapD99718744E03BA2C090086A1C469BE32.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.47.58:251][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-15.47.58:284][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.58:284][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-15.47.58:284][ 85]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 5:47:58 AM)
+[2019.12.05-15.47.58:284][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-15.47.58:294][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010251s)
+[2019.12.05-15.47.58:295][ 85]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-15.47.58:295][ 85]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2019.12.05-15.47.58:295][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010832s)
+[2019.12.05-15.47.58:324][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.12.05-15.47.58:332][ 85]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-15.47.58:346][ 85]LogInit: FAudioDevice initialized.
+[2019.12.05-15.47.58:370][ 85]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.47.58:373][ 85]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-10.47.58
+[2019.12.05-15.47.58:374][ 85]LogWorld: Bringing up level for play took: 0.002459
+[2019.12.05-15.47.58:388][ 85]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.029
+[2019.12.05-15.47.58:388][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.47.58:389][ 85]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.47.59:238][136]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_RangedMutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:468][929]LogNet: Browse: /Game/Julian/Maps/FirstLevelJulian
+[2019.12.05-15.48.12:469][929]LogLoad: LoadMap: /Game/Julian/Maps/FirstLevelJulian
+[2019.12.05-15.48.12:523][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.05-15.48.12:666][929]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.12.05-15.48.12:666][929]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.48.12:694][929]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.12.05-10.48.12
+[2019.12.05-15.48.12:717][929]LogWorld: Bringing up level for play took: 0.049857
+[2019.12.05-15.48.12:720][929]LogLoad: Took 0.251793 seconds to LoadMap(/Game/Julian/Maps/FirstLevelJulian)
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:743][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:744][930]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.48.12:905][940]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.49.19:764][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.49.19:764][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.49.19:820][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-15.49.19:820][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.49.19:884][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.49.19:926][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.12.05-15.49.19:947][947]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.05-15.49.20:452][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.49.20:489][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.05-15.49.20:669][977]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapDF5BB2D543F09FAAF8E1878235F96D3F.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.49.33:255][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.49.33:291][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.05-15.49.33:461][728]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap572595FA47F80B05B1ECF782B1C14469.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.50.11:881][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.50.11:918][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.12.05-15.50.12:100][ 29]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap174462BF4F468EFB1EFD04B66C49C185.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.50.54:140][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.50.54:176][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.05-15.50.54:373][547]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapBC419DA04E9AF9F3700FCD8A5111F972.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.51.15:765][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.51.15:804][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.05-15.51.15:991][826]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapD7951D3541E9A7B05789B99F6CDC51E3.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.51.32:545][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.51.32:583][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.05-15.51.32:747][815]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapA415A3F74CF328DD4D2F1987CC49310F.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.51.37:308][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-15.51.38:450][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.05-15.51.38:614][150]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap42CA542F449C043A40132BA954D4D1D7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.51.40:522][261]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-15.51.40:555][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.51.40:555][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-15.51.40:555][261]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 5:51:40 AM)
+[2019.12.05-15.51.40:555][261]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-15.51.40:566][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010685s)
+[2019.12.05-15.51.40:567][261]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-15.51.40:567][261]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.12.05-15.51.40:567][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011583s)
+[2019.12.05-15.51.40:598][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.05-15.51.40:606][261]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-15.51.40:620][261]LogInit: FAudioDevice initialized.
+[2019.12.05-15.51.40:648][261]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.51.40:650][261]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-10.51.40
+[2019.12.05-15.51.40:651][261]LogWorld: Bringing up level for play took: 0.002471
+[2019.12.05-15.51.40:665][261]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.307
+[2019.12.05-15.51.40:665][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.51.40:666][261]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.51.41:631][318]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1336.345 Y=696.910 Z=226.365] for [BP_RangedMutantHomingProjectile_C]
+[2019.12.05-15.51.41:916][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.51.41:916][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.51.41:944][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-15.51.41:945][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.51.41:979][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.51.41:983][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.05-15.51.42:022][337]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.05-15.51.54:866][776]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-15.51.55:287][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.05-15.51.55:917][784]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerBBD6437A45788BA0C218A79062148354.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-15.52.03:568][238]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Phil/Player/Animations/ABP_Player.ABP_Player
+[2019.12.05-15.52.03:603][238]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.12.05-15.52.03:603][238]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.05-15.52.03:797][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.03:807][238]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.12.05-15.52.03:807][238]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.12.05-15.52.04:093][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.05-15.52.04:718][238]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.05-15.52.27:207][537]LogEditorTransaction: Undo Move Node
+[2019.12.05-15.52.27:281][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.28:104][576]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player021665A2433ADC9C3CEF23B7A2F78B3D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.52.42:184][418]LogEditorTransaction: Undo Move Node
+[2019.12.05-15.52.42:257][418]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.42:521][433]LogEditorTransaction: Undo Move Node
+[2019.12.05-15.52.42:605][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.42:956][452]LogEditorTransaction: Undo Create Pin Link
+[2019.12.05-15.52.43:032][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.43:898][494]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerED3A30FB480B83F743F6B189386865FB.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.52.52:872][ 29]LogEditorTransaction: Undo Move Node
+[2019.12.05-15.52.52:946][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.53:714][ 72]LogEditorTransaction: Undo Create Pin Link
+[2019.12.05-15.52.53:789][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.52.54:236][ 89]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player745CB6914E1FBA2301AFE887C4A25035.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.52.54:918][120]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerA6CEC3F04C6FEC65CEAA8E9AB6968509.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.02:842][593]LogEditorTransaction: Undo Create Pin Link
+[2019.12.05-15.53.02:921][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.53.03:420][612]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerF544B7F14A7C8DCD4F765EA6606BC2FF.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.04:164][656]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.04:421][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.12.05-15.53.04:977][678]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player38B7FBC842B51EC5EE9F308A0AB6CD89.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.08:760][902]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.08:777][902]LogBlueprint: Warning: [Compiler ABP_Player] JumpLoopOrb to JumpLoopGun  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.53.08:967][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.05-15.53.08:976][902]LogBlueprint: Warning: [Compiler ABP_Player] [0811.73] Compile of ABP_Player successful, but with 1 Warning(s) [in 215 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.53.09:537][925]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player3D8D81C342FAE7F7F8B9D19AC974E912.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.23:480][749]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.23:688][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.05-15.53.24:199][769]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player11C3E0B24DEC2FA7773ACA84018616E7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.27:389][952]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player5FF1FDEB426BD0DC97FDFE8AF9813411.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.28:093][994]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.28:293][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.05-15.53.28:925][ 22]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerF45ABFA244B03FCBF59793BEF26F538F.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.36:350][457]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.36:556][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.05-15.53.37:014][474]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player82AF050D4B9AECE76A214DA720323803.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.40:927][708]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.41:134][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.05-15.53.41:638][728]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerDE3EB67446E2814F548467889A1E5D60.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.53.43:742][833]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Phil/Player/Animations/ABP_Player.ABP_Player
+[2019.12.05-15.53.43:756][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.53.44:021][833]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.05-15.53.44:358][833]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.05-15.53.57:691][579]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.53.57:707][579]LogBlueprint: Warning: [Compiler ABP_Player] JumpLoopGun to JumpLoopOrb  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.53.57:911][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.05-15.53.57:920][579]LogBlueprint: Warning: [Compiler ABP_Player] [0860.68] Compile of ABP_Player successful, but with 1 Warning(s) [in 229 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.53.58:405][598]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player6DDAA37B42A6F684BD6CAB9CF4DDA81D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.04:471][950]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.04:681][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.05-15.54.05:162][968]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerFE7A0EB84F7783F17AABC481981AFC53.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.24:213][ 98]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.24:420][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.05-15.54.24:960][120]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerF3530E0E4CCBE5DFAB4C908C223B4315.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.32:736][575]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.32:937][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.05-15.54.33:482][597]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerFF58F718402B42275A700D8C459B9679.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.38:149][870]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.38:165][870]LogBlueprint: Warning: [Compiler ABP_Player] JumpEndOrb to JumpEndGun  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.54.38:355][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.05-15.54.38:363][870]LogBlueprint: Warning: [Compiler ABP_Player] [0901.12] Compile of ABP_Player successful, but with 1 Warning(s) [in 214 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.54.38:941][894]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerAE25D98C444B0681DE7546934061C24B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.45:015][247]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.45:237][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.05-15.54.45:575][256]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerB8DBEF53426C26A8322593975B16029D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.51:918][631]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.51:936][631]LogBlueprint: Warning: [Compiler ABP_Player] JumpEndGun to JumpEndOrb  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.54.52:133][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.05-15.54.52:142][631]LogBlueprint: Warning: [Compiler ABP_Player] [0914.90] Compile of ABP_Player successful, but with 1 Warning(s) [in 224 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.54.52:596][648]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player95269B39460331D105D2EEA3626BA220.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.54.58:517][990]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.54.58:767][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.05-15.54.59:260][  8]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerFEEDCC224C424FCFC6AB428FB8562D7E.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.55.07:949][521]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.55.07:967][521]LogBlueprint: Warning: [Compiler ABP_Player] JumpStartOrb to JumpStartGun  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.55.08:163][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.05-15.55.08:173][521]LogBlueprint: Warning: [Compiler ABP_Player] [0930.93] Compile of ABP_Player successful, but with 1 Warning(s) [in 223 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.55.08:663][539]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerEC618B00478A0380916104B7ADA5C94B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.55.16:127][974]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.55.16:335][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.05-15.55.16:852][993]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerABFB017A4FA1A07673D2FDABF0F8BB07.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.55.22:870][351]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.55.22:886][351]LogBlueprint: Warning: [Compiler ABP_Player] JumpStartGun to JumpStartOrb  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.55.23:107][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.05-15.55.23:117][351]LogBlueprint: Warning: [Compiler ABP_Player] [0945.87] Compile of ABP_Player successful, but with 1 Warning(s) [in 246 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.55.23:585][369]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_PlayerCCC8C43847E2EC0A4C21CEA5F128BCDD.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.55.36:180][115]LogEditorTransaction: Undo Create Pin Link
+[2019.12.05-15.55.36:251][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.05-15.55.37:717][192]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player2DC6C4374B58ED6201A07D9C17DC087D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.56.03:087][674]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.56.03:103][674]LogBlueprint: Warning: [Compiler ABP_Player] JumpStartGun to JumpStartOrb  will never be taken, please connect something to  Can Enter Transition
+[2019.12.05-15.56.03:296][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.05-15.56.03:306][674]LogBlueprint: Warning: [Compiler ABP_Player] [0986.06] Compile of ABP_Player successful, but with 1 Warning(s) [in 218 ms] (/Game/Phil/Player/Animations/ABP_Player.ABP_Player)
+[2019.12.05-15.56.03:795][692]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player6C8DB08943F592B9A68FA5B0CBAE9444.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.56.08:939][986]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-15.56.09:148][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.05-15.56.09:682][  7]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ABP_Player1B816A1D40BD3B6BC9391C8C567ECDAA.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/Animations/ABP_Player.uasset'
+[2019.12.05-15.56.11:541][118]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-15.56.11:575][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.11:575][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-15.56.11:575][118]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 5:56:11 AM)
+[2019.12.05-15.56.11:575][118]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-15.56.11:586][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010700s)
+[2019.12.05-15.56.11:587][118]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-15.56.11:587][118]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.12.05-15.56.11:587][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011411s)
+[2019.12.05-15.56.11:633][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.05-15.56.11:643][118]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-15.56.11:662][118]LogInit: FAudioDevice initialized.
+[2019.12.05-15.56.11:691][118]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.56.11:694][118]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-10.56.11
+[2019.12.05-15.56.11:696][118]LogWorld: Bringing up level for play took: 0.003561
+[2019.12.05-15.56.11:710][118]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.648
+[2019.12.05-15.56.11:710][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.11:712][118]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.12:407][160]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_RangedMutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.14:391][279]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.14:391][279]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.15:310][334]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.15:310][334]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.15:607][352]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.15:607][352]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.18:528][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.18:529][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.56.18:558][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-15.56.18:558][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.18:598][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.56.18:602][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.05-15.56.18:642][527]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.05-15.56.19:013][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.56.19:050][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.05-15.56.19:279][549]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap387DB3C946042A325A1B079FC0DC03B7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.56.19:792][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-15.56.19:875][581]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-15.56.19:914][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.19:914][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-15.56.19:914][581]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 5:56:19 AM)
+[2019.12.05-15.56.19:915][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-15.56.19:925][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010572s)
+[2019.12.05-15.56.19:926][581]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-15.56.19:926][581]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2019.12.05-15.56.19:926][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011176s)
+[2019.12.05-15.56.19:959][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.05-15.56.19:967][581]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-15.56.19:980][581]LogInit: FAudioDevice initialized.
+[2019.12.05-15.56.20:005][581]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-15.56.20:007][581]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-10.56.20
+[2019.12.05-15.56.20:008][581]LogWorld: Bringing up level for play took: 0.002475
+[2019.12.05-15.56.20:022][581]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.336
+[2019.12.05-15.56.20:022][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.20:024][581]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.20:909][634]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_RangedMutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.26:928][995]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.26:928][995]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.28:194][ 71]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.28:194][ 71]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.28:194][ 71]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.28:194][ 71]LogAnimation: Warning: SLOTNODE: 'Upperbody' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-15.56.28:506][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.28:507][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.56.28:540][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-15.56.28:540][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-15.56.28:583][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-15.56.28:596][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.05-15.56.28:618][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.05-15.56.28:960][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.56.29:001][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.05-15.56.29:209][110]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap4320A665441178C589DB679B436F82D7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.56.37:013][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.56.37:048][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.05-15.56.37:258][574]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap5C15FAB0401DEDD5B262949723D4BB1D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
