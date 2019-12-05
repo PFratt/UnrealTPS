@@ -1315,3 +1315,306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.05-15.56.37:013][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.05-15.56.37:048][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2019.12.05-15.56.37:258][574]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap5C15FAB0401DEDD5B262949723D4BB1D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.57.24:208][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-15.57.24:248][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.05-15.57.24:484][341]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap61E159C84857997E1CE24F9B0C695F38.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-15.59.17:004][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-15.59.54:241][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.05-15.59.54:455][144]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapACBD48A841661952E84F87AC0270181C.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.00.17:298][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.05-16.00.17:520][450]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap291BD039417D4F51356B1D915142C1C4.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.00.56:302][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.05-16.00.56:513][770]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap3A72FE2147C1A4A0B178C299C80E0EA9.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.02.55:295][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.12.05-16.02.55:502][827]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap0131F20B4A3ADDD36C2B9EB9E7583F9E.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.03.47:210][  8]BlueprintLog: New page: Compile ABP_Player
+[2019.12.05-16.03.47:445][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.05-16.03.55:890][478]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player37F0D7574C35E9AA512D1A8130ADB51C.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.04.03:842][930]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerA1791D4440E57A6DD755A590C2E5AC65.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.10.19:486][ 67]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Julian/FinalBoss/Healthbar/BP_Boss_HealthBar.BP_Boss_HealthBar
+[2019.12.05-16.10.19:812][ 67]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.12.05-16.10.35:937][ 13]BlueprintLog: New page: Compile BP_Boss_HealthBar
+[2019.12.05-16.10.36:013][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.12.05-16.10.36:533][ 41]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Boss_HealthBar5B55871F4545F0ADDE70F884D7DC2189.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/FinalBoss/Healthbar/BP_Boss_HealthBar.uasset'
+[2019.12.05-16.11.17:493][368]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.11.18:030][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.05-16.11.18:815][379]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player9A6D34114398E13F7C4B61A97A9D4B2E.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.11.57:430][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.05-16.11.57:683][690]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapFA8778BB44797E12E44CF0B509C93159.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.12.27:132][201]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-16.12.27:172][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-16.12.27:172][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-16.12.27:172][201]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 5, 2019, 6:12:27 AM)
+[2019.12.05-16.12.27:173][201]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.05-16.12.27:183][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010575s)
+[2019.12.05-16.12.27:184][201]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.05-16.12.27:184][201]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.12.05-16.12.27:184][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011258s)
+[2019.12.05-16.12.27:220][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.05-16.12.27:228][201]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-16.12.27:243][201]LogInit: FAudioDevice initialized.
+[2019.12.05-16.12.27:274][201]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-16.12.27:276][201]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.05-11.12.27
+[2019.12.05-16.12.27:277][201]LogWorld: Bringing up level for play took: 0.002609
+[2019.12.05-16.12.27:291][201]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.933
+[2019.12.05-16.12.27:291][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-16.12.27:293][201]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.12.28:395][267]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_RangedMutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.12.47:560][416]LogCharacterMovement: BP_MutantSleeping_2 is stuck and failed to move! Velocity: X=6.51 Y=33.51 Z=0.00 Location: X=-645.76 Y=771.84 Z=211.00 Normal: X=-0.16 Y=-0.83 Z=-0.54 PenetrationDepth:12.797 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2019.12.05-16.12.52:044][685]LogCharacterMovement: BP_MutantSleeping_2 is stuck and failed to move! Velocity: X=26.57 Y=21.42 Z=0.00 Location: X=-684.53 Y=810.48 Z=211.23 Normal: X=-0.65 Y=-0.39 Z=-0.65 PenetrationDepth:13.683 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2019.12.05-16.13.35:557][292]LogNet: Browse: /Game/Julian/Maps/FirstLevelJulian
+[2019.12.05-16.13.35:558][292]LogLoad: LoadMap: /Game/Julian/Maps/FirstLevelJulian
+[2019.12.05-16.13.35:600][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.05-16.13.35:737][292]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.12.05-16.13.35:737][292]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.05-16.13.35:767][292]LogWorld: Bringing World /Game/Julian/Maps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.12.05-11.13.35
+[2019.12.05-16.13.35:788][292]LogWorld: Bringing up level for play took: 0.049260
+[2019.12.05-16.13.35:792][292]LogLoad: Took 0.234871 seconds to LoadMap(/Game/Julian/Maps/FirstLevelJulian)
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:812][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:813][293]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.35:989][304]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.05-16.13.43:289][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-16.13.43:290][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-16.13.43:340][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-16.13.43:340][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.05-16.13.43:384][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-16.13.43:394][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.05-16.13.43:414][741]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.05-16.13.43:754][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-16.13.43:799][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.05-16.13.44:025][761]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap83A891C84DBFDF2BDD3F77A7F1020C6F.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.13.47:956][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-16.13.48:001][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.05-16.13.48:223][992]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap0BBCE62945D098CB484F889FAF70A3EB.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.13.51:102][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-16.13.51:144][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.05-16.13.51:364][159]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap66B0D573495A0BFD9A288CB3519479C7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.14.03:578][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-16.14.36:351][832]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player549747E94F5C54A88CF8A2874ED55F7F.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.14.52:204][779]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.14.52:720][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.05-16.14.53:508][799]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player9794B343445FA20FB378E6897A20ED50.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.15.02:673][330]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player453A9F774D1AEE02D4CFB5AC47CEBEF5.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.15.45:140][796]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerA1A3E63F41D80685DF62C59F12061DF1.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.15.57:482][507]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player377B9C2E43148F67E8DBC7BAF18D60E5.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.15.58:457][549]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player6655719143976DFBCEB1AF91F11C15C4.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.15.59:489][610]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.16.00:025][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.05-16.16.00:878][633]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player4950F46E47D13DA71980CC8E36CB619A.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.16.02:656][724]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player8BDDEA7C47EA05383ABEC89FAE78E8DD.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.16.06:523][950]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.16.07:028][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.05-16.16.07:601][956]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player6017D2B149AC4E4FAAF71B848F51994E.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.16.53:729][698]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.16.54:242][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.05-16.16.54:898][708]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player110445F445EC5467DFAFEC94794E459A.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.17.56:410][366]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.17.56:942][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.05-16.17.57:431][367]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player2E78C32E41E50F4296A2349C52CA1D79.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.18.33:222][506]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.18.33:748][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.05-16.18.34:418][517]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerC831DA594BF95A65986627A4D3CD4794.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.18.51:314][518]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.18.51:956][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.05-16.18.52:810][540]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player13164F2A45B993420351AFB52DF96E21.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.19.11:311][629]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.19.11:860][629]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.12.05-16.19.12:351][630]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerBB6713A6482F2CD129BF3696F83697C9.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.19.18:116][971]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.19.18:634][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.12.05-16.19.19:604][998]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerB062FAB141982D2D9B5A849992C3EB0C.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.19.31:478][706]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.19.32:098][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.12.05-16.19.32:861][724]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player366B8EAF49C38E3B2B71DBA64D1F6577.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.20.39:753][682]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.20.40:286][682]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.12.05-16.20.40:889][688]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player75C11FBE4A1A66AE509A11A85E45CD39.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.20.55:180][524]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.20.55:680][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.05-16.20.56:270][528]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerEBA77134427FB734CD8D498428CBDBD3.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.21.04:244][  0]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.21.04:794][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.05-16.21.05:648][ 22]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player5A4716A1492199A0958434A5E1D942ED.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.21.13:608][492]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.21.14:132][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.12.05-16.21.14:906][510]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player45DB15FA410990CBB7271685C54F7139.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.22.18:793][279]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.22.19:360][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.05-16.22.19:889][280]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player46042CA64DDC709D998A9396D7FAD939.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.22.45:926][831]LogEditorTransaction: Undo Move Node
+[2019.12.05-16.22.46:461][850]LogEditorTransaction: Undo Move Node
+[2019.12.05-16.22.47:045][871]LogEditorTransaction: Undo Move Node
+[2019.12.05-16.22.48:223][912]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player955E48594A04C47AEEE8129C5EBD19D9.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.22.49:009][958]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.22.49:523][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.12.05-16.22.50:156][966]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player87EDE2EC445AFBBCEDA36C89AC92B277.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.23.39:801][928]LogEditorTransaction: Undo Resize Node
+[2019.12.05-16.23.41:270][987]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player8890DD964944F80D1A0446A184BC5F9B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.24.01:200][161]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.24.01:771][161]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2019.12.05-16.24.02:354][168]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player803642054C751C9C4CD31FA5D3B6B495.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.24.29:111][763]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.24.29:635][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.05-16.24.30:283][771]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player1732D1664717848EBDC609BD1D62A61B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.25.04:860][791]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.25.05:395][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.12.05-16.25.06:204][808]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player2B618BD643A5CFDE0D2B30B405E570D3.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.25.16:767][434]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.25.17:325][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.05-16.25.18:047][447]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerD425F641406272017360A7A3714ECBAA.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.25.30:028][160]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.25.30:595][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.05-16.25.31:372][178]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerDBCD3D9249B9CE301CDE9FA09CE875C0.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.26.40:837][322]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.26.41:391][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.05-16.26.42:008][330]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player47F1FAE54CD0E76DCA642080D41B59A0.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.26.47:459][655]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.26.47:994][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.05-16.26.48:850][677]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player53F0C1384D60E15FEB36EC8E79598BD0.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.27.28:836][ 57]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.27.29:405][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.05-16.27.29:977][ 62]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player176401794D5925D6C78431B3963921AF.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.27.32:655][221]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(326)].
+[2019.12.05-16.27.32:714][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.05-16.27.32:963][221]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap_Auto1F3A50DBA46B86248F178D8BD024A5369.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.12.05-16.27.32:967][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.296
+[2019.12.05-16.27.32:967][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2019.12.05-16.27.32:969][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Phil/Player/BP_Player] ([1] browsable assets)...
+[2019.12.05-16.27.32:969][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Phil/Player/BP_Player]
+[2019.12.05-16.27.33:226][221]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player_Auto19791DF224BD35DF2E2BE9A83CD8D5BE8.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Phil/Player/BP_Player_Auto1.uasset'
+[2019.12.05-16.27.33:228][221]LogFileHelpers: Auto-saving content packages took 0.260
+[2019.12.05-16.28.08:980][363]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.28.09:518][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.05-16.28.10:289][381]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerB1D10FD2429F4C183C7C96878C7C7DE8.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.28.20:756][  0]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.28.21:354][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.05-16.28.21:897][  4]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player6F4DC6A24A60E46C97D1748D39956E8A.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.28.46:849][492]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.28.47:396][492]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.12.05-16.28.48:089][504]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerB270BAF6417CD17E827C6C95C99C6643.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.29.08:453][696]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.29.08:986][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.12.05-16.29.09:574][700]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player63BE76BF47C4DE1F73AA01A5A6F1276E.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.29.17:996][188]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.29.18:562][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.05-16.29.19:069][189]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player19F01F824440DC08E054CFA00C5F8E12.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.29.26:033][589]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.29.26:603][589]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2019.12.05-16.29.27:100][590]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerF214650A48E227A9FD34C791601A014B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.29.28:517][669]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.29.29:086][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.12.05-16.29.29:718][679]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerD42A101248E6E70F8DE69E862EDDB6E2.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.31.14:010][851]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.31.14:574][851]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.12.05-16.31.15:381][871]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player2124B3E0458A7F51DEB6C99B7B2703EB.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.32.17:745][586]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player5FD8DC1B4A87B29FEA71EBBBE4FE1323.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.32.18:141][609]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.32.18:664][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.05-16.32.19:255][617]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player7B4E635E487D35907EC795A742E22D2B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.33.22:273][327]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player919D4B4744FA89C3BCC40EAA1A946581.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.33.23:336][389]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.33.23:826][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.05-16.33.24:496][399]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerCBBD82E24DBE4F2C8564EEA14234C1F7.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.33.40:889][361]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(326)].
+[2019.12.05-16.33.41:172][361]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player235A37FB4DE61EC61EF2D699FDF0F70A.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.33.47:763][751]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.33.48:280][751]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.12.05-16.33.48:787][752]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player9F91EB2C45412D8054E921BB9F06AD07.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.33.54:010][ 63]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.33.54:518][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.05-16.33.55:447][ 91]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player5C16B57C42071469C61F5ABFFEEE9AE4.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.34.05:255][672]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.34.05:799][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.12.05-16.34.06:796][703]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerF08387644B2A64B17A0F459A070106CD.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.34.09:409][842]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player50AD07874D1E7CA5930843B1F4DEC40D.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.34.28:882][983]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.34.29:478][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.05-16.34.30:112][991]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player604205E044D2FFF3331778AA46A0D56B.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.35.22:541][ 98]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.35.23:067][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.05-16.35.23:554][ 99]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player9A23BE6F4EF443C683540EB19A60342C.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.35.33:199][672]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.35.33:705][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.05-16.35.34:313][679]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_PlayerF7177DFF425BC583364D6DA7D3356A24.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.36.02:252][327]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.36.02:802][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.05-16.36.03:432][333]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player29FDAACF4732FD2E0B26739CDC314008.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.36.09:073][624]BlueprintLog: New page: Compile BP_Player
+[2019.12.05-16.36.09:595][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.05-16.36.10:277][633]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_Player397A6F374B7E5D9ED14B97A55911C8B0.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Phil/Player/BP_Player.uasset'
+[2019.12.05-16.37.36:794][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.05-16.37.37:020][272]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMap_Auto20D64AB0843DE9554E12CD3B3BBA803EE.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.12.05-16.37.37:023][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.270
+[2019.12.05-16.37.37:023][272]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2019.12.05-16.37.55:722][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.05-16.37.55:958][278]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapA7EAA2414B1F0D2A6CD46FAF6CF50591.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.05-16.39.02:527][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.05-16.39.02:745][628]LogSavePackage: Moving '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/ThirdPersonExampleMapD7F7124D428099EAEC8B579D4F239613.tmp' to '../../../../../../Users/philf/Desktop/School/Semester 5/Game Engine III/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
