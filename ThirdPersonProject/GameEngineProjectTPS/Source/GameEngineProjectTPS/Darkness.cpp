@@ -3,8 +3,9 @@
 
 #include "Darkness.h"
 #include "Engine.h"
-#include "GameEngineProjectTPSCharacter.h"
+//#include "GameEngineProjectTPSCharacter.h"
 #include "Blueprint/AIBlueprintHelperLibrary.h"
+//#include <GameEngineProjectTPSCharacter.cpp>
 
 
 // Sets default values
@@ -46,9 +47,17 @@ void ADarkness::Tick(float DeltaTime)
 
 }
 
-void ADarkness::SimpleMoveToActor(AController* Controller, const AActor* Goal)
-{
-}
+//static void SimpleMoveToActor
+//(
+//	AController* Controller,
+//	const AActor* Goal
+//)
+//{
+//
+//}
+
+
+
 
 
 //void UAIBlueprintHelperLibrary::SimpleMoveToActor(AController* Controller, const AActor* Goal)

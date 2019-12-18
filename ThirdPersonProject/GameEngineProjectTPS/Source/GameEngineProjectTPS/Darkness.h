@@ -7,6 +7,7 @@
 #include "Components/BoxComponent.h"
 #include "Darkness.generated.h"
 
+
 class UBoxComponent;
 class UStaticMeshComponent;
 class UParticleSystemComponent;
@@ -40,6 +41,8 @@ public:
 
 	UPROPERTY(VisibleAnywhere)
 		float HP = 1.5f;
+
+	
 
 	
 

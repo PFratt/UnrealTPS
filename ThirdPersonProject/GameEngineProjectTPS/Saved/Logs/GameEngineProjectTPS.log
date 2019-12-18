@@ -9641,3 +9641,304 @@ Make sure 'BP_Warp_C' has been compiled for  Get Collider
 [2019.12.18-21.40.44:509][655]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
 [2019.12.18-21.40.44:925][655]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/HubLevel0F76CAB24D7A399D0A192BBBD9DF2DEC.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/HubLevel.umap'
 [2019.12.18-21.40.45:065][655]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/HubLevel_BuiltDataF52C4147482386E017D7CD8416F38FF9.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/HubLevel_BuiltData.uasset'
+[2019.12.18-21.48.22:282][277]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-21.48.22:334][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel' with GeneratedClass '/Game/Julian/JulianMaps/HubLevel.HubLevel_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel'
+[2019.12.18-21.48.22:334][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-21.48.22:334][277]PIE: New page: PIE session: HubLevel (Dec 18, 2019, 11:48:22 AM)
+[2019.12.18-21.48.22:335][277]LogPlayLevel: Creating play world package: /Game/Julian/JulianMaps/UEDPIE_0_HubLevel
+[2019.12.18-21.48.22:342][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006733s)
+[2019.12.18-21.48.22:343][277]LogAIModule: Creating AISystem for world HubLevel
+[2019.12.18-21.48.22:343][277]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2019.12.18-21.48.22:343][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/JulianMaps/HubLevel.HubLevel to /Game/Julian/JulianMaps/UEDPIE_0_HubLevel.HubLevel (0.008397s)
+[2019.12.18-21.48.22:407][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.12.18-21.48.22:411][277]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.18-21.48.22:440][277]LogInit: FAudioDevice initialized.
+[2019.12.18-21.48.22:469][277]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.18-21.48.22:471][277]LogWorld: Bringing World /Game/Julian/JulianMaps/UEDPIE_0_HubLevel.HubLevel up for play (max tick rate 60) at 2019.12.18-16.48.22
+[2019.12.18-21.48.22:472][277]LogWorld: Bringing up level for play took: 0.002091
+[2019.12.18-21.48.22:488][277]PIE: Play in editor start time for /Game/Julian/JulianMaps/UEDPIE_0_HubLevel -0.669
+[2019.12.18-21.48.22:488][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel' with GeneratedClass '/Game/Julian/JulianMaps/HubLevel.HubLevel_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel'
+[2019.12.18-21.48.30:865][711]LogNet: Browse: /Game/Julian/JulianMaps/FirstLevelJulian
+[2019.12.18-21.48.30:883][711]LogLoad: LoadMap: /Game/Julian/JulianMaps/FirstLevelJulian
+[2019.12.18-21.48.30:926][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.18-21.48.30:927][711]LogPlayLevel: Creating play world package: /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian
+[2019.12.18-21.48.31:002][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075404s)
+[2019.12.18-21.48.31:003][711]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.12.18-21.48.31:003][711]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.12.18-21.48.31:003][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian to /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.076455s)
+[2019.12.18-21.48.31:003][711]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.18-21.48.31:042][711]LogWorld: Bringing World /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.12.18-16.48.31
+[2019.12.18-21.48.31:065][711]LogWorld: Bringing up level for play took: 0.061157
+[2019.12.18-21.48.31:071][711]LogLoad: Took 0.188048 seconds to LoadMap(/Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian)
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:104][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.31:105][712]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-21.48.42:628][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel' with GeneratedClass '/Game/Julian/JulianMaps/HubLevel.HubLevel_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel'
+[2019.12.18-21.48.42:628][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-21.48.42:684][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-21.48.42:684][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel' with GeneratedClass '/Game/Julian/JulianMaps/HubLevel.HubLevel_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/HubLevel.HubLevel:PersistentLevel.HubLevel'
+[2019.12.18-21.48.42:756][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-21.48.42:772][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.12.18-21.48.42:875][206]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2019.12.18-21.49.31:155][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-22.19.44:989][268]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\julia\Desktop\Miscellaneous\EDOOR2.WAV)
+[2019.12.18-22.19.45:028][268]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\julia\Desktop\Miscellaneous\EDOOR1.WAV)
+[2019.12.18-22.20.23:956][872]LogUObjectHash: Compacting FUObjectHashTables data took  25.03ms
+[2019.12.18-22.20.23:961][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Julian/JulianMaps/HubLevel' took 0.324
+[2019.12.18-22.20.23:970][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/Sound/EDOOR2] ([1] browsable assets)...
+[2019.12.18-22.20.23:982][872]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Julian/Sound/EDOOR2.EDOOR2]
+[2019.12.18-22.20.23:982][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/Sound/EDOOR2]
+[2019.12.18-22.20.24:033][872]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/EDOOR2_Auto20E94BB7A428EAAAF0B0B0DB9BB3DC188.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Sound/EDOOR2_Auto2.uasset'
+[2019.12.18-22.20.24:041][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Julian/Sound/EDOOR1] ([1] browsable assets)...
+[2019.12.18-22.20.24:053][872]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Julian/Sound/EDOOR1.EDOOR1]
+[2019.12.18-22.20.24:053][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Julian/Sound/EDOOR1]
+[2019.12.18-22.20.24:080][872]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/EDOOR1_Auto2CE17D73B4D1237A1380B40A7944479F4.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/Autosaves/Game/Julian/Sound/EDOOR1_Auto2.uasset'
+[2019.12.18-22.20.24:084][872]LogFileHelpers: Auto-saving content packages took 0.122
+[2019.12.18-22.24.38:954][633]LogHotReload: New module detected: UE4Editor-GameEngineProjectTPS-0033.dll
+[2019.12.18-22.27.37:432][166]LogHotReload: New module detected: UE4Editor-GameEngineProjectTPS-0034.dll
+[2019.12.18-22.27.38:849][171]LogHotReload: Starting Hot-Reload from IDE
+[2019.12.18-22.27.39:507][171]LogUObjectHash: Compacting FUObjectHashTables data took  24.09ms
+[2019.12.18-22.27.39:571][171]LogBlueprintActionDatabase: Requesting refresh due to module change: GameEngineProjectTPS (unloaded)
+[2019.12.18-22.27.39:737][171]LogClass: Could not find existing class SlidingDoor in package /Script/GameEngineProjectTPS for HotReload, assuming new class
+[2019.12.18-22.27.39:740][171]LogClass: Function OnTriggerEndOverlap is new.
+[2019.12.18-22.27.39:741][171]LogClass: Function OnTriggerOverlap is new.
+[2019.12.18-22.27.39:928][171]LogHotReload: Re-instancing SlidingDoor after hot-reload.
+[2019.12.18-22.27.41:860][171]LogBlueprintActionDatabase: Requesting refresh due to module change: GameEngineProjectTPS (loaded)
+[2019.12.18-22.27.41:874][171]LogContentBrowser: Native class hierarchy updated for 'GameEngineProjectTPS' in 0.0133 seconds. Added 6 classes and 2 folders.
+[2019.12.18-22.27.41:884][171]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.18-22.27.42:272][171]LogUObjectHash: Compacting FUObjectHashTables data took  18.52ms
+[2019.12.18-22.27.42:289][171]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.12.18-22.27.42:557][171]LogContentBrowser: Native class hierarchy populated in 0.0873 seconds. Added 2739 classes and 663 folders.
+[2019.12.18-22.27.42:586][171]Display: HotReload took  3.7s.
+[2019.12.18-22.28.10:569][ 13]LogUObjectHash: Compacting FUObjectHashTables data took  15.51ms
+[2019.12.18-22.28.17:613][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.18-22.28.17:632][ 13]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2019.12.18-22.28.17:798][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.18-22.28.19:619][ 13]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Julian/JulianBluePrint/BP_DoorProx.BP_DoorProx
+[2019.12.18-22.28.21:982][ 13]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2019.12.18-22.28.22:565][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.18-22.28.22:602][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.18-22.28.22:634][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.18-22.29.21:244][ 26]LogAssetEditorManager: Opening Asset editor for World /Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian
+[2019.12.18-22.29.21:279][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.18-22.29.24:224][ 26]LogSlate: Window 'Save Content' being destroyed
+[2019.12.18-22.29.24:267][ 26]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/EDOOR1346775874C34DDD7051633AD5CCB8233.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Sound/EDOOR1.uasset'
+[2019.12.18-22.29.24:295][ 26]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/EDOOR2BE25B1194A02D2FDB83D39837DC40E58.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/Sound/EDOOR2.uasset'
+[2019.12.18-22.29.24:352][ 26]LightingResults: New page: Lighting Build
+[2019.12.18-22.29.24:361][ 26]LoadErrors: New page: Loading map: FirstLevelJulian.umap
+[2019.12.18-22.29.24:381][ 26]MapCheck: New page: Map Check
+[2019.12.18-22.29.24:381][ 26]LightingResults: New page: Lighting Build
+[2019.12.18-22.29.24:459][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.12.18-22.29.24:497][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.18-22.29.24:531][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.12.18-22.29.24:603][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.18-22.29.24:637][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.18-22.29.25:162][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.18-22.29.25:209][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.18-22.29.25:294][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.18-22.29.25:296][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.657ms to complete.
+[2019.12.18-22.29.25:298][ 26]LogFileHelpers: Loading map 'FirstLevelJulian' took 0.973
+[2019.12.18-22.29.40:291][639]LogEditorViewport: Clicking on Actor (LMB): BP_SlidingDoor_C (BP_SlidingDoor2)
+[2019.12.18-22.29.43:557][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-22.31.52:318][698]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_SlidingDoor.BP_SlidingDoor
+[2019.12.18-22.32.07:850][175]LogNavigation: Warning: ConstructTiledNavMesh: Could not init navmesh.
+[2019.12.18-22.32.09:440][239]BlueprintLog: New page: Compile BP_SlidingDoor
+[2019.12.18-22.32.09:830][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.18-22.32.09:840][239]LogNavigation: Warning: ConstructTiledNavMesh: Could not init navmesh.
+[2019.12.18-22.32.10:612][256]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/BP_SlidingDoor6F4D57614A6F17198A2E0B9875E2D69F.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/BP_SlidingDoor.uasset'
+[2019.12.18-22.32.14:764][419]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-22.32.14:845][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.32.14:848][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-22.32.14:848][419]PIE: New page: PIE session: FirstLevelJulian (Dec 18, 2019, 12:32:14 PM)
+[2019.12.18-22.32.14:855][419]LogPlayLevel: Creating play world package: /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian
+[2019.12.18-22.32.15:620][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.764094s)
+[2019.12.18-22.32.15:622][419]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.12.18-22.32.15:633][419]LogPlayLevel: PIE: World Init took: (0.014734s)
+[2019.12.18-22.32.15:634][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian to /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.779666s)
+[2019.12.18-22.32.15:676][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.18-22.32.15:702][419]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.18-22.32.15:764][419]LogInit: FAudioDevice initialized.
+[2019.12.18-22.32.15:825][419]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.18-22.32.15:881][419]LogWorld: Bringing World /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.12.18-17.32.15
+[2019.12.18-22.32.15:931][419]LogWorld: Bringing up level for play took: 0.093209
+[2019.12.18-22.32.16:015][419]PIE: Play in editor start time for /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian 0.981
+[2019.12.18-22.32.16:016][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.32.16:080][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:080][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:081][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:082][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.16:083][420]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.32.25:431][761]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EDOOR1...
+[2019.12.18-22.32.25:460][761]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 21852 while cooking SoundWave /Game/Julian/Sound/EDOOR1.EDOOR1.
+[2019.12.18-22.32.40:332][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.32.40:334][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-22.32.40:392][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-22.32.40:392][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.32.40:441][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-22.32.40:465][365]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.12.18-22.32.40:607][366]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2019.12.18-22.32.42:224][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-22.32.56:481][167]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2019.12.18-22.32.56:502][167]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2019.12.18-22.33.01:127][424]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_SlidingDoor.BP_SlidingDoor
+[2019.12.18-22.33.07:618][666]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2019.12.18-22.33.07:641][666]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2019.12.18-22.33.09:346][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.18-22.33.10:285][738]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/FirstLevelJulian4573F76045165473BDDF6FB72D72F15A.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/FirstLevelJulian.umap'
+[2019.12.18-22.33.11:375][738]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/FirstLevelJulian_BuiltData68A3D93D45BD4B202A6C998F3C0CCAFE.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/FirstLevelJulian_BuiltData.uasset'
+[2019.12.18-22.33.18:448][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-22.33.18:500][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.33.18:500][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-22.33.18:500][ 56]PIE: New page: PIE session: FirstLevelJulian (Dec 18, 2019, 12:33:18 PM)
+[2019.12.18-22.33.18:501][ 56]LogPlayLevel: Creating play world package: /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian
+[2019.12.18-22.33.18:627][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125487s)
+[2019.12.18-22.33.18:628][ 56]LogAIModule: Creating AISystem for world FirstLevelJulian
+[2019.12.18-22.33.18:628][ 56]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.12.18-22.33.18:628][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian to /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian (0.126668s)
+[2019.12.18-22.33.18:684][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.12.18-22.33.18:690][ 56]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.18-22.33.18:727][ 56]LogInit: FAudioDevice initialized.
+[2019.12.18-22.33.18:757][ 56]LogLoad: Game class is 'GM_FPS_C'
+[2019.12.18-22.33.18:796][ 56]LogWorld: Bringing World /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian.FirstLevelJulian up for play (max tick rate 60) at 2019.12.18-17.33.18
+[2019.12.18-22.33.18:821][ 56]LogWorld: Bringing up level for play took: 0.065062
+[2019.12.18-22.33.18:839][ 56]PIE: Play in editor start time for /Game/Julian/JulianMaps/UEDPIE_0_FirstLevelJulian -0.195
+[2019.12.18-22.33.18:839][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:873][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.33.18:874][ 57]LogAnimation: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Mutant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.12.18-22.34.01:892][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.34.01:893][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-22.34.01:953][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-22.34.01:953][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel' has LevelScriptBlueprint '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian' with GeneratedClass '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian_C' with ClassGeneratedBy '/Game/Julian/JulianMaps/FirstLevelJulian.FirstLevelJulian:PersistentLevel.FirstLevelJulian'
+[2019.12.18-22.34.02:014][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-22.34.02:049][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.12.18-22.34.02:180][762]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2019.12.18-22.34.03:110][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-22.34.03:283][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.18-22.34.04:093][795]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/FirstLevelJulian99C7871C4B5C1F15D41794893DF655B2.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/FirstLevelJulian.umap'
+[2019.12.18-22.34.05:160][795]LogSavePackage: Moving '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Saved/FirstLevelJulian_BuiltData4FBC1EBE47D28087BA9D3F9A9B4ED814.tmp' to '../../../../../../Users/julia/Documents/UnrealGameProject/UnrealTPS/ThirdPersonProject/GameEngineProjectTPS/Content/Julian/JulianMaps/FirstLevelJulian_BuiltData.uasset'

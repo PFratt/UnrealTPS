@@ -3,6 +3,7 @@
 
 #include "SlidingDoor.h"
 #include "UObject/ConstructorHelpers.h"
+#include "Kismet/GameplayStatics.h"
 #include "Runtime/Engine/Classes/Components/StaticMeshComponent.h"
 #include "Runtime/Engine/Classes/Components/BoxComponent.h"
 
@@ -46,12 +47,14 @@ void ASlidingDoor::CloseDoor()
 {
 	IsMoving = true;
 	DoorIsOpen = false;
+	UGameplayStatics::PlaySoundAtLocation(this, Sound, GetActorLocation());
 }
 
 void ASlidingDoor::OpenDoor()
 {
 	IsMoving = true;
 	DoorIsOpen = true;
+	UGameplayStatics::PlaySoundAtLocation(this, Sound, GetActorLocation());
 	
 }
 
@@ -63,7 +66,7 @@ void ASlidingDoor::DoorMovement(float DeltaTime)
 
 			if (DoorIsOpen)
 			{
-				if (FMath::IsNearlyEqual(StaticMesh->RelativeLocation.Y, Distance, 0.7f)) {
+				if (FMath::IsNearlyEqual(StaticMesh->RelativeLocation.Y, Distance, 1.5f)) {
 
 					StaticMesh->SetRelativeLocation(FVector(0.f, Distance, 0.f));
 					IsMoving = false;
@@ -77,7 +80,7 @@ void ASlidingDoor::DoorMovement(float DeltaTime)
 			}
 			else {
 
-				if (FMath::IsNearlyEqual(StaticMesh->RelativeLocation.Y, 0.f, 0.7f)) {
+				if (FMath::IsNearlyEqual(StaticMesh->RelativeLocation.Y, 0.f, 1.5f)) {
 
 					StaticMesh->SetRelativeLocation(FVector::ZeroVector);
 					IsMoving = false;

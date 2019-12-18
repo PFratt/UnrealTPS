@@ -45,6 +45,9 @@ private:
 
 	UPROPERTY(EditAnywhere)
 		class UBoxComponent* Trigger;
+
+	UPROPERTY(EditAnywhere)
+		USoundBase* Sound;
 	
 	UPROPERTY(EditAnywhere)
 	float Distance = 0.f;
