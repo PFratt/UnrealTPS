@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GameEngineProjectTPS.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EF0C313A-A8E8-4792-8036-1D4B552CE625}</UniqueIdentifier>
+      <UniqueIdentifier>{17A7F43B-BBC6-454D-A5F1-3EEAA31CF5D9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameEngineProjectTPS.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\GameEngineProjectTPSEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{89525E95-C188-4D49-9A07-5FA55D0F3A1C}</UniqueIdentifier>
+      <UniqueIdentifier>{6EF5CA5A-44E6-4BEE-A5DC-3D54F5FB19CF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GameEngineProjectTPS">
-      <UniqueIdentifier>{DA44A2BB-C296-4AB3-87F6-C068F8FA4ED7}</UniqueIdentifier>
+      <UniqueIdentifier>{8C835003-2467-44D0-B1DF-780414416168}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPS.Build.cs">
       <Filter>Source\GameEngineProjectTPS</Filter>
@@ -53,5 +54,33 @@
     <ClInclude Include="..\..\Source\GameEngineProjectTPS\GameEngineProjectTPSGameMode.h">
       <Filter>Source\GameEngineProjectTPS</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\OrbReturn.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\OrbReturn.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\Shadow.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\Shadow.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\Darkness.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GameEngineProjectTPS\SlidingDoor.h">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\Darkness.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GameEngineProjectTPS\SlidingDoor.cpp">
+      <Filter>Source\GameEngineProjectTPS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
