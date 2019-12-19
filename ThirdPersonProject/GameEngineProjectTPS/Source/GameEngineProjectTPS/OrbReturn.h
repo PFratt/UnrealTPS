@@ -4,12 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
-#include <Runtime\Engine\Classes\Components\SphereComponent.h>
-#include <Runtime\Engine\Classes\GameFramework\ProjectileMovementComponent.h>
-
+#include "Runtime\Engine\Classes\Components\SphereComponent.h"
+#include "Runtime\Engine\Classes\GameFramework\ProjectileMovementComponent.h"
 #include "OrbReturn.generated.h"
 
 
+//class USphereComponent;
 
 UCLASS()
 class GAMEENGINEPROJECTTPS_API AOrbReturn : public APawn
@@ -19,6 +19,17 @@ class GAMEENGINEPROJECTTPS_API AOrbReturn : public APawn
 public:
 	// Sets default values for this pawn's properties
 	AOrbReturn();
+
+	UPROPERTY(VisibleAnywhere)
+		USphereComponent* CollisionComponent;
+	/*UPROPERTY(VisibleAnywhere)
+		UStaticMeshComponent* MeshComponent;*/
+	UPROPERTY(VisibleAnywhere)
+		UProjectileMovementComponent* ProjectileMovement;
+	UPROPERTY(EditAnywhere)
+		AActor* Player;
+	UPROPERTY(EditAnywhere)
+		float Speed = 1000.0;
 
 	/*UPROPERTY(EditAnywhere)
 		USoundBase* Sound;
@@ -43,7 +54,7 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	virtual void NotifyActorBeginOverlap(AActor* OtherActor) override;
 	// Called to bind functionality to input
 	//virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
